@@ -1,7 +1,9 @@
 .page-gallery {
-  display: flex;
-  flex-direction: row;
   margin-top: 2 * $base-spacing;
+  @media screen and (min-width: $medium-screen) {
+    display: flex;
+    flex-direction: row;
+  }
 }
 
 .page-gallery--item {
