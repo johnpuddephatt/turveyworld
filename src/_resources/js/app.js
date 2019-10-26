@@ -17,3 +17,4 @@ else {
   aos('.fades-in','faded-in');
 }
 
+document.getElementById('nav-trigger').reset();
