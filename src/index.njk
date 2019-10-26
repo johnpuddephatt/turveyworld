@@ -1,0 +1,44 @@
+---
+layout: layouts/base.njk
+title: Home
+---
+
+<section class="home-hero container">
+  {% srcset "/uploads/MCB-A-2.jpg", "Gerry performing", "home-hero--image", 640, 320, "(min-width: 1120px) 960px, (min-width: 720px) 90vw, 100vw" %}
+</section>
+
+<section class="home-intro">
+  <div class="container">
+    <h1 class="home-intro--title">Gerry Turvey is a dancer, yoga teacher and artist.</h1>
+    <div class="home-intro--text">
+      <p>Based in Leeds, her work playfully intervenes in public spaces, art galleries, and the natural environment</p>
+      <p>Turvey World Dance is a collective of dancers and artists who come together to explore process and develop new work.</p>
+      <a class="button" href="/pages/about/">Read more</a>
+    </div>
+  </div>
+</section>
+
+
+<section class="section--home-projects">
+  <div class="container">
+    {% set cls = cycler("1","2","3","4","5","6") %}
+    {% set width = 440 %}
+    {% set homeProjects = collections.projects | reverse %}
+    {%- for row in homeProjects | slice(2) %}
+      <div class="row">
+        {%- for project in row %}
+          <div class="sr-only">{{ cls.next() }}</div>
+          {% if (cls.current == 1 or cls.current == 5)  %}
+            {% set insideColumn = true %}
+            <div class="column">
+          {% endif %}
+          {% include "partials/home-project.njk" %}
+          {% if cls.current == 2 or cls.current == 6 %}
+            </div>
+            {% set insideColumn = false %}
+          {% endif %}
+        {%- endfor %}
+      </div>
+    {%- endfor %}
+  </div>
+</section>

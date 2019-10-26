@@ -1,0 +1,23 @@
+---
+layout: /layouts/base.njk
+---
+<div class="page-content">
+
+  {% if header_image.file %}
+    <div class="page-image-container">
+      <div class="container">
+        {% srcset header_image.file, header_image.alt, "post__image", 640, 360, "(min-width: 1120px) 1120px, 100vw", header_image.crop %}
+      </div>
+    </div>
+  {% endif %}
+
+  <div class="page-body container container__narrow">
+    {{ content | safe }}
+  </div>
+
+  {% if footer_image.file %}
+    <div class="page-footer container">
+      {% srcset footer_image.file, footer_image.alt, "post__image", 640, 360, "(min-width: 1120px) 1120px, 100vw", footer_image.crop %}
+    </div>
+  {% endif %}
+</div>

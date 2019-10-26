@@ -1,0 +1,38 @@
+.home-hero {
+  img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+.home-intro {
+  position: relative;
+  &::before {
+    content: '';
+    display: block;
+    position: absolute;
+    background-color: $light-purple;
+    left: 0;
+    right: 0;
+    top: -12 * $base-spacing;
+    bottom: -6 *$base-spacing;
+    z-index: -1;
+  }
+  .container {
+    @media screen and (min-width: $medium-screen) {
+      display: flex;
+      flex-direction: row;
+    }
+    margin-top: 2 * $base-spacing;
+    margin-bottom: 2 * $base-spacing;
+  }
+}
+
+.home-intro--title {
+  font-size: modular-scale(2);
+  flex: 0 0 40%;
+  @media screen and (min-width: $medium-screen) {
+    margin-right: 2 * $base-spacing;
+    text-align: right;
+  }
+}

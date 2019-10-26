@@ -1,0 +1,9 @@
+---
+layout: layouts/base.njk
+title: Gallery
+---
+<section class="container container__wide section--gallery">
+  {%- for image in gallery %}
+    {% srcset image, "", "gallery-image fades-in", 300, null, "(min-width: 1120px) 25vw, 100vw" %}
+  {%- endfor %}
+</section>

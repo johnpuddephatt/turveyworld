@@ -1,0 +1,11 @@
+<a href="{{ project.url }}" class="home-project fades-in">
+  <div class="home-project--text">
+    <h2 class="home-project--title">{{ project.data.title }}</h2>
+  </div>
+  {% if insideColumn %}
+    {% set height = 360 %}
+  {% else %}
+    {% set height = 750 %}
+  {% endif %}
+  {% srcset project.data.image.file, project.data.image.alt, "home-project--image", width, height, "(min-width: 1120px) 200px, (min-width: 720px) 66vw, 50vw", project.data.image.crop %}
+</a>

@@ -1,0 +1,43 @@
+figure {
+  margin: $base-spacing 0;
+}
+
+img,
+picture {
+  margin: 0;
+  max-width: 100%;
+}
+
+img + figcaption {
+  background-color: $gray;
+  padding: $small-spacing/2 $base-spacing;
+  text-align: center;
+}
+
+iframe {
+  max-width: 100%;
+}
+
+figure img {
+  margin-bottom: 0 !important;
+}
+
+.fades-in {
+  opacity: 0;
+  transform: translateY($base-spacing);
+  transition: 3 * $base-duration;
+  &:nth-child(2n) {
+    transition-delay: $base-duration
+  }
+  &:nth-child(3n) {
+    transition-delay: 2 * $base-duration
+  }
+  &:nth-child(5n) {
+    transition-delay: 3 * $base-duration;
+  }
+  &.faded-in {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+

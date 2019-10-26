@@ -1,0 +1,32 @@
+.site-header {
+  > .container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    margin: 1.5 * $base-spacing auto;
+    @media screen and (min-width: $xl-screen) {
+      margin: 2.5 * $base-spacing auto 2 * $base-spacing;
+    }
+  }
+}
+
+.site-title {
+  color: $base-font-color;
+  font-weight: 700;
+  margin-bottom: 0;
+  line-height: 0;
+
+  svg {
+    width: 12 * $base-spacing;
+    height: auto;
+
+    path {
+      fill: $base-font-color;
+      transition: fill 3 * $base-duration;
+    }
+  }
+  &:hover svg path:first-child {
+    fill: $orange;
+  }
+}

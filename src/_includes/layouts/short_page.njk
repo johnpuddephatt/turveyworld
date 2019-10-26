@@ -1,0 +1,13 @@
+---
+layout: /layouts/base.njk
+---
+<section class="section-short_page">
+  <div class="container container__wide">
+    <div class="contact--text">
+      {{ content | safe }}
+    </div>
+    <div class="contact--image">
+      {% srcset image.file, image.alt, "post__image", 640, 640, "(min-width: 1120px) 1120px, 100vw", image.crop %}
+    </div>
+  </div>
+</section>

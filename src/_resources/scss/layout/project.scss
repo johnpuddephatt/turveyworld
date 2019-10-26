@@ -1,0 +1,48 @@
+.page-gallery {
+  display: flex;
+  flex-direction: row;
+  margin-top: 2 * $base-spacing;
+}
+
+.page-gallery--item {
+  flex: 1;
+  + .page-gallery--item  {
+    margin-left: $base-spacing;
+  }
+}
+
+
+/*
+** Current work page
+*/
+
+.project-item {
+  margin: 4 * $base-spacing 0;
+  @media screen and (min-width: $large-screen) {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    div:last-child {
+      margin-left: 2 * $base-spacing;
+    }
+    &:nth-child(2n) {
+      flex-direction: row-reverse;
+      div:last-child {
+        margin-right: 2 * $base-spacing;
+        margin-left: 0;
+      }
+    }
+  }
+}
+
+.project-item--text {
+  flex: 1 1 45%;
+}
+
+.project-item--image {
+  flex: 1 1 55%;
+  img {
+    width: 100%;
+    display: block;
+  }
+}
