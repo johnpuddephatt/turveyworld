@@ -7,7 +7,7 @@ const aos = require( "./components/aos" );
 
 const gallery = document.querySelector('.section--gallery');
 
-if(gallery.length) {
+if(gallery !== null) {
   gallery.style.visibility = 'hidden';
   imagesLoaded( gallery, function( instance ) {
     setTimeout(()=> {
