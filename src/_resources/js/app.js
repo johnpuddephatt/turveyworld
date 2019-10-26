@@ -1,11 +1,13 @@
 "use strict";
 require('intersection-observer');
+require('./components/foreach-shim');
+
 const imagesLoaded = require('imagesLoaded');
 const aos = require( "./components/aos" );
 
 const gallery = document.querySelector('.section--gallery');
 
-if(gallery) {
+if(gallery.length) {
   gallery.style.visibility = 'hidden';
   imagesLoaded( gallery, function( instance ) {
     setTimeout(()=> {
