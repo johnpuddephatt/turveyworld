@@ -19,9 +19,15 @@ I feel inspired and refreshed after every class.
 
 ![](/uploads/yoga-3.jpg)
 
+> As an instructor, Gerry perfectly balances a rigorous practice with gentle self-awareness. Her flow classes are creatively choreographed, so that more
+challenging poses are easier to embrace and it's possible to go deeper into them. I can't recommend her enough!
+>> Lara Eggleton, writer, editor and consultant
+
 Gerry's teaches regular Yoga classes, at the Yoga Space Leeds, Leeds University and Leeds Yoga.
 
 If you would like a one to one yoga class please contact Gerry directly.
+
+---
 
 ### The Yoga Space Leeds
 
@@ -42,7 +48,3 @@ Or you can drop in. No need to sign up, come when you can.
 - Flow: Tuesday 11am to 11.55am
 
 Please book two days before with reception.
-
-> As an instructor, Gerry perfectly balances a rigorous practice with gentle self-awareness. Her flow classes are creatively choreographed, so that more
-challenging poses are easier to embrace and it's possible to go deeper into them. I can't recommend her strongly enough!
->> Lara Eggleton, writer, editor and consultant

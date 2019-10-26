@@ -1,5 +1,5 @@
 ---
-title: Words are not enough
+title: Words Are Not Enough
 video: >
   <iframe src="https://player.vimeo.com/video/170834384?color=F7B941&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 date: 2019-01-04
