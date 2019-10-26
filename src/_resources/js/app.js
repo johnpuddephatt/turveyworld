@@ -1,4 +1,5 @@
 "use strict";
+require('intersection-observer');
 const imagesLoaded = require('imagesLoaded');
 const aos = require( "./components/aos" );
 

@@ -30,16 +30,21 @@
   margin-bottom: 2 * $base-spacing;
   img {
     display: block;
+    width: 100%;
+    height: auto;
   }
 }
 
 .page-body {
   img {
     display: block;
+    width: 100%;
+    height: auto;
     margin: $base-spacing 0;
   }
   > p:first-child {
     font-size: modular-scale(2);
+    line-height: $heading-line-height;
     margin: $base-spacing 0;
     font-weight: 600;
   }
@@ -51,6 +56,13 @@
     list-style-position: inside;
     margin-left: $small-spacing;
     margin-bottom: $small-spacing;
+  }
+}
+
+.page-footer {
+  img {
+    width: 100%;
+    height: auto;
   }
 }
 
@@ -67,6 +79,9 @@
       display: flex;
       flex-direction: row;
       align-items: center;
+    }
+    div {
+      flex: 1 1 50%;
     }
   }
   div + div {

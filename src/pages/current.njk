@@ -11,7 +11,7 @@ title: Current projects
         {{ item.templateContent | safe}}
       </div>
       <div class="project-item--image">
-        {% srcset item.data.image.file, image.alt, "post__image", 500, 500, "(min-width: 1120px) 500px, 100vw", item.data.image.crop %}
+        {% srcset item.data.image.file, image.alt, "post__image", 500, 500, "(min-width: 960px) 440px, 90vw", item.data.image.crop %}
       </div>
     </section>
   {% endfor -%}

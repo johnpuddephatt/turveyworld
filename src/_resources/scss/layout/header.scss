@@ -18,8 +18,10 @@
   line-height: 0;
 
   svg {
+    display: block;
     width: 12 * $base-spacing;
     height: auto;
+    max-height: 100%; // IE11?
 
     path {
       fill: $base-font-color;

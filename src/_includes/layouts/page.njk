@@ -6,7 +6,7 @@ layout: /layouts/base.njk
   {% if header_image.file %}
     <div class="page-image-container">
       <div class="container">
-        {% srcset header_image.file, header_image.alt, "post__image", 640, 360, "(min-width: 1120px) 1120px, 100vw", header_image.crop %}
+        {% srcset header_image.file, header_image.alt, "post__image", 640, 360, "(min-width: 960px) 852px, 90vw", header_image.crop %}
       </div>
     </div>
   {% endif %}
@@ -17,7 +17,7 @@ layout: /layouts/base.njk
 
   {% if footer_image.file %}
     <div class="page-footer container">
-      {% srcset footer_image.file, footer_image.alt, "post__image", 640, 360, "(min-width: 1120px) 1120px, 100vw", footer_image.crop %}
+      {% srcset footer_image.file, footer_image.alt, "post__image", 640, 360, "(min-width: 960px) 852px, 90vw", footer_image.crop %}
     </div>
   {% endif %}
 </div>

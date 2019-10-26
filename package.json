@@ -34,6 +34,7 @@
   },
   "dependencies": {
     "eleventy-plugin-srcset": "^0.1.8",
-    "imagesloaded": "^4.1.4"
+    "imagesloaded": "^4.1.4",
+    "intersection-observer": "^0.7.0"
   }
 }
