@@ -1,5 +1,5 @@
 {
-  "name": "yorspace11ty",
+  "name": "turveyworld",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -33,7 +33,7 @@
     "vue-template-compiler": "^2.6.10"
   },
   "dependencies": {
-    "eleventy-plugin-srcset": "^0.1.7",
+    "eleventy-plugin-srcset": "^0.1.8",
     "imagesloaded": "^4.1.4"
   }
 }
