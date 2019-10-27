@@ -8,10 +8,10 @@ const aos = require( "./components/aos" );
 const gallery = document.querySelector('.section--gallery');
 
 if(gallery !== null) {
-  gallery.style.visibility = 'hidden';
+  gallery.classList.add('loading');
   imagesLoaded( gallery, function( instance ) {
     setTimeout(()=> {
-      gallery.style.visibility = 'visible';
+      gallery.classList.remove('loading');
       aos('.fades-in','faded-in');
     }, 500);
   });

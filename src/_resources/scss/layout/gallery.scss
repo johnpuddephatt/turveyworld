@@ -1,7 +1,24 @@
 .section--gallery {
   columns: 6 300px;
-  visibility: hidden;
   column-gap: $base-spacing;
+  position: relative;
+  &.loading {
+    &::before {
+      display: block;
+      content: '';
+      position: absolute;
+      height: 2 * $base-spacing;
+      width: 2 * $base-spacing;
+      left: 50%;
+      top: 30vh;
+      transform: translateX(-50%);
+      background-size: cover;
+      background-image: url('/assets/images/spinner.svg');
+    }
+    img {
+      opacity: 0;
+    }
+  }
   img {
     margin: 0 0rem $base-spacing 0;
     display: block;

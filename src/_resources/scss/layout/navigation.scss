@@ -27,6 +27,19 @@ label[for="nav-trigger"] {
     transition: color 3 * $base-duration;
     text-decoration: none;
     text-transform: lowercase;
+    position: relative;
+    &.active {
+      &::after {
+        position: absolute;
+        content: '';
+        display: block;
+        height: .15rem;
+        width: 100%;
+        top: 100%;
+        left: 0;
+        background-color: $light-purple;
+      }
+    }
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
       margin-right: 2 * $base-spacing;

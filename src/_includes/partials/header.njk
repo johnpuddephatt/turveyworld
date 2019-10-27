@@ -19,12 +19,12 @@
             </svg>
           </span>
         </label>
-
         <div class="trigger">
           {% for path in navigation.header_pages %}
-            {% for page in collections.pages %}
-              {% if page.url == path  %}
-                <a class="page-link" href="{{page.url}}">{{ page.data.title }}</a>
+            {% for item in collections.pages %}
+              {% if item.url == path  %}
+                <a class="page-link {% if page.url == item.url %}active{% endif %}"
+                {% if page.url == item.url %} aria-current="page"{% endif %} href="{{item.url}}">{{ item.data.title }}</a>
               {% endif %}
             {% endfor %}
           {% endfor %}
