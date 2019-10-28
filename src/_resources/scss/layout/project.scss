@@ -9,7 +9,9 @@
 .page-gallery--item {
   flex: 1;
   + .page-gallery--item  {
-    margin-left: $base-spacing;
+    @media screen and (min-width: $medium-screen) {
+      margin-left: $base-spacing;
+    }
   }
 }
 
