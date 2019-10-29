@@ -56,6 +56,9 @@
     list-style-position: inside;
     margin-left: $small-spacing;
     margin-bottom: $small-spacing;
+    ul {
+      list-style-type: circle;
+    }
   }
 }
 
