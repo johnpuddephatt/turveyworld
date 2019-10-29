@@ -1,10 +1,9 @@
 {
 	"header_pages": [
 		"/pages/current/",
-		"/pages/gallery/",
 		"/pages/video/",
 		"/pages/yoga/",
-		"/pages/about/",
+		"/pages/gallery/",
 		"/pages/contact/"
 	]
 }
