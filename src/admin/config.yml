@@ -105,109 +105,109 @@ collections:
       - label: "Home"
         name: "home"
         file: "/src/index.md"
-          fields:
-            - {label: Layout, name: 'layout', type: 'hidden', default: 'layouts/home.njk'}
-            - {label: 'Page title', name: 'title', widget: 'string' }
-            - label: Intro
-              name: intro
-              widget: object
-              fields:
-                - { label: 'Title', name: 'title', widget: 'string' }
-                - {label: 'Intro', name: 'text', widget: 'text' }
-            - label: Image
-              name: image
-              widget: object
-              fields:
-                - { label: 'Image', name: 'file', widget: 'image' }
-                - {label: 'Alt text', name: 'alt', widget: 'string' }
-                - label: 'Crop'
-                  name: 'crop'
-                  widget: 'select'
-                  options:
-                    - { label: "Center", value: "gravity.center" }
-                    - { label: "North", value: "gravity.north" }
-                    - { label: "North-east", value: "gravity.northeast" }
-                    - { label: "East", value: "gravity.east" }
-                    - { label: "South-east", value: "gravity.southeast" }
-                    - { label: "South", value: "gravity.south" }
-                    - { label: "South-west", value: "gravity.southwest" }
-                    - { label: "West", value: "gravity.west" }
-                    - { label: "North-west", value: "gravity.northwest" }
+        fields:
+          - {label: Layout, name: 'layout', type: 'hidden', default: 'layouts/home.njk'}
+          - {label: 'Page title', name: 'title', widget: 'string' }
+          - label: Intro
+            name: intro
+            widget: object
+            fields:
+              - { label: 'Title', name: 'title', widget: 'string' }
+              - {label: 'Intro', name: 'text', widget: 'text' }
+          - label: Image
+            name: image
+            widget: object
+            fields:
+              - { label: 'Image', name: 'file', widget: 'image' }
+              - {label: 'Alt text', name: 'alt', widget: 'string' }
+              - label: 'Crop'
+                name: 'crop'
+                widget: 'select'
+                options:
+                  - { label: "Center", value: "gravity.center" }
+                  - { label: "North", value: "gravity.north" }
+                  - { label: "North-east", value: "gravity.northeast" }
+                  - { label: "East", value: "gravity.east" }
+                  - { label: "South-east", value: "gravity.southeast" }
+                  - { label: "South", value: "gravity.south" }
+                  - { label: "South-west", value: "gravity.southwest" }
+                  - { label: "West", value: "gravity.west" }
+                  - { label: "North-west", value: "gravity.northwest" }
       - label: "About"
         name: "about"
         file: "/src/pages/about.md"
+        fields:
+          - {label: Layout, name: 'layout', type: 'hidden', default: 'layouts/page.njk'}
+          - {label: 'Title', name: 'title', widget: 'string' }
+          - label: Header image
+            name: header_image
+            widget: object
             fields:
-              - {label: Layout, name: 'layout', type: 'hidden', default: 'layouts/page.njk'}
-              - {label: 'Title', name: 'title', widget: 'string' }
-              - label: Header image
-                name: header_image
-                widget: object
-                fields:
-                  - { label: 'Image', name: 'file', widget: 'image' }
-                  - {label: 'Alt text', name: 'alt', widget: 'string' }
-                  - label: 'Crop'
-                    name: 'crop'
-                    widget: 'select'
-                    options:
-                      - { label: "Center", value: "gravity.center" }
-                      - { label: "North", value: "gravity.north" }
-                      - { label: "North-east", value: "gravity.northeast" }
-                      - { label: "East", value: "gravity.east" }
-                      - { label: "South-east", value: "gravity.southeast" }
-                      - { label: "South", value: "gravity.south" }
-                      - { label: "South-west", value: "gravity.southwest" }
-                      - { label: "West", value: "gravity.west" }
-                      - { label: "North-west", value: "gravity.northwest" }
-              - { label: 'Body', name: 'body', widget: 'markdown'}
+              - { label: 'Image', name: 'file', widget: 'image' }
+              - {label: 'Alt text', name: 'alt', widget: 'string' }
+              - label: 'Crop'
+                name: 'crop'
+                widget: 'select'
+                options:
+                  - { label: "Center", value: "gravity.center" }
+                  - { label: "North", value: "gravity.north" }
+                  - { label: "North-east", value: "gravity.northeast" }
+                  - { label: "East", value: "gravity.east" }
+                  - { label: "South-east", value: "gravity.southeast" }
+                  - { label: "South", value: "gravity.south" }
+                  - { label: "South-west", value: "gravity.southwest" }
+                  - { label: "West", value: "gravity.west" }
+                  - { label: "North-west", value: "gravity.northwest" }
+          - { label: 'Body', name: 'body', widget: 'markdown'}
       - label: "Yoga"
         name: "yoga"
         file: "/src/pages/yoga.md"
+        fields:
+          - {label: Layout, name: 'layout', type: 'hidden', default: 'layouts/page.njk'}
+          - {label: 'Title', name: 'title', widget: 'string' }
+          - label: Header image
+            name: header_image
+            widget: object
             fields:
-              - {label: Layout, name: 'layout', type: 'hidden', default: 'layouts/page.njk'}
-              - {label: 'Title', name: 'title', widget: 'string' }
-              - label: Header image
-                name: header_image
-                widget: object
-                fields:
-                  - { label: 'Image', name: 'file', widget: 'image' }
-                  - {label: 'Alt text', name: 'alt', widget: 'string' }
-                  - label: 'Crop'
-                    name: 'crop'
-                    widget: 'select'
-                    options:
-                      - { label: "Center", value: "gravity.center" }
-                      - { label: "North", value: "gravity.north" }
-                      - { label: "North-east", value: "gravity.northeast" }
-                      - { label: "East", value: "gravity.east" }
-                      - { label: "South-east", value: "gravity.southeast" }
-                      - { label: "South", value: "gravity.south" }
-                      - { label: "South-west", value: "gravity.southwest" }
-                      - { label: "West", value: "gravity.west" }
-                      - { label: "North-west", value: "gravity.northwest" }
-              - { label: 'Body', name: 'body', widget: 'markdown'}
+              - { label: 'Image', name: 'file', widget: 'image' }
+              - {label: 'Alt text', name: 'alt', widget: 'string' }
+              - label: 'Crop'
+                name: 'crop'
+                widget: 'select'
+                options:
+                  - { label: "Center", value: "gravity.center" }
+                  - { label: "North", value: "gravity.north" }
+                  - { label: "North-east", value: "gravity.northeast" }
+                  - { label: "East", value: "gravity.east" }
+                  - { label: "South-east", value: "gravity.southeast" }
+                  - { label: "South", value: "gravity.south" }
+                  - { label: "South-west", value: "gravity.southwest" }
+                  - { label: "West", value: "gravity.west" }
+                  - { label: "North-west", value: "gravity.northwest" }
+          - { label: 'Body', name: 'body', widget: 'markdown'}
       - label: "Contact"
         name: "contact"
         file: "/src/pages/contact.md"
+        fields:
+          - {label: Layout, name: 'layout', type: 'hidden', default: 'layouts/short_page.njk'}
+          - {label: 'Title', name: 'title', widget: 'string' }
+          - label: Header image
+            name: header_image
+            widget: object
             fields:
-              - {label: Layout, name: 'layout', type: 'hidden', default: 'layouts/short_page.njk'}
-              - {label: 'Title', name: 'title', widget: 'string' }
-              - label: Header image
-                name: header_image
-                widget: object
-                fields:
-                  - { label: 'Image', name: 'file', widget: 'image' }
-                  - {label: 'Alt text', name: 'alt', widget: 'string' }
-                  - label: 'Crop'
-                    name: 'crop'
-                    widget: 'select'
-                    options:
-                      - { label: "Center", value: "gravity.center" }
-                      - { label: "North", value: "gravity.north" }
-                      - { label: "North-east", value: "gravity.northeast" }
-                      - { label: "East", value: "gravity.east" }
-                      - { label: "South-east", value: "gravity.southeast" }
-                      - { label: "South", value: "gravity.south" }
-                      - { label: "South-west", value: "gravity.southwest" }
-                      - { label: "West", value: "gravity.west" }
-                      - { label: "North-west", value: "gravity.northwest" }
-              - { label: 'Body', name: 'body', widget: 'markdown'}
+              - { label: 'Image', name: 'file', widget: 'image' }
+              - {label: 'Alt text', name: 'alt', widget: 'string' }
+              - label: 'Crop'
+                name: 'crop'
+                widget: 'select'
+                options:
+                  - { label: "Center", value: "gravity.center" }
+                  - { label: "North", value: "gravity.north" }
+                  - { label: "North-east", value: "gravity.northeast" }
+                  - { label: "East", value: "gravity.east" }
+                  - { label: "South-east", value: "gravity.southeast" }
+                  - { label: "South", value: "gravity.south" }
+                  - { label: "South-west", value: "gravity.southwest" }
+                  - { label: "West", value: "gravity.west" }
+                  - { label: "North-west", value: "gravity.northwest" }
+          - { label: 'Body', name: 'body', widget: 'markdown'}
