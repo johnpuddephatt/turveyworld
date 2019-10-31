@@ -8,6 +8,14 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin( pluginSrcsetImg );
   eleventyConfig.addPlugin(svgContents);
 
+  const md = require('markdown-it')({
+      html: false,
+      breaks: true,
+      linkify: true
+  });
+
+  eleventyConfig.addNunjucksFilter("markdownify", markdownString => md.render(markdownString));
+
   // Copy files
   eleventyConfig.addPassthroughCopy('./src/admin');
   eleventyConfig.addPassthroughCopy('./src/assets');

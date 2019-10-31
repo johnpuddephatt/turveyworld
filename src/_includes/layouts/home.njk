@@ -1,21 +1,18 @@
 ---
-layout: layouts/base.njk
-title: Home
+layout: /layouts/base.njk
 ---
-
 <section class="home-hero">
   <div class="container">
-    {% srcset "/uploads/MCB-A-2.jpg", "Gerry performing", "home-hero--image", 640, 320, "(min-width: 1120px) 960px, (min-width: 720px) 90vw, 100vw" %}
+    {% srcset image.file, image.alt, "home-hero--image", 640, 320, "(min-width: 1120px) 960px, (min-width: 720px) 90vw, 100vw", image.crop %}
     </div>
 </section>
 
 <section class="home-intro">
   <div class="container">
-    <h1 class="home-intro--title">Gerry Turvey is a dancer, yoga teacher and artist.</h1>
+    <h1 class="home-intro--title">{{ intro.title }}</h1>
     <div class="home-intro--text">
-      <p>Based in Leeds, her work playfully intervenes in public spaces, art galleries, and the natural environment</p>
-      <p>Turvey World Dance is a collective of dancers and artists who come together to explore process and develop new work.</p>
-      <a class="button" href="/pages/about/">Read more</a>
+        {{ intro.text | markdownify | safe }}
+        <a class="button" href="/pages/about/">Read more</a>
     </div>
   </div>
 </section>
