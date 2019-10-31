@@ -190,8 +190,8 @@ collections:
         fields:
           - {label: Layout, name: 'layout', widget: 'hidden', default: 'layouts/short_page.njk'}
           - {label: 'Title', name: 'title', widget: 'string' }
-          - label: Header image
-            name: header_image
+          - label: Image
+            name: image
             widget: object
             fields:
               - { label: 'Image', name: 'file', widget: 'image' }
