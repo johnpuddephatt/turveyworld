@@ -7,7 +7,7 @@ layout: /layouts/base.njk
       {{ content | safe }}
     </div>
     <div class="contact--image">
-      {% srcset image.file, image.alt, "post__image", 640, 640, "(min-width: 1162px) 500px, (min-width: 720px) 30vw, 90vw", image.crop %}
+      {% srcset image.file, image.alt, "post__image", 480, 480, "(min-width: 1162px) 500px, (min-width: 720px) 30vw, 90vw", image.crop %}
     </div>
   </div>
 </section>

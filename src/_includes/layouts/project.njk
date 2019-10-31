@@ -6,7 +6,7 @@ layout: /layouts/base.njk
 
   <div class="page-image-container">
     <div class="container">
-      {% srcset header_image.file, header_image.alt, "post__image", 640, 360, "(min-width: 960px) 852px, 90vw", header_image.crop %}
+      {% srcset header_image.file, header_image.alt, "post__image", 960, 540, "(min-width: 960px) 852px, 90vw", header_image.crop %}
     </div>
   </div>
 
@@ -21,7 +21,7 @@ layout: /layouts/base.njk
     <div class="container container__wide page-gallery">
       {% for image in project_gallery %}
         <div class="page-gallery--item">
-          {% srcset image.file, image.alt, "post__image", 360, 360, "(min-width: 1120px) 310px, (min-width: 720px) 25vw, 90vw", image.crop %}
+          {% srcset image.file, image.alt, "post__image", 300, 300, "(min-width: 1120px) 310px, (min-width: 720px) 25vw, 90vw", image.crop %}
         </div>
       {% endfor %}
     </div>
