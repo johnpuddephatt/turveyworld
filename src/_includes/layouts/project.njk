@@ -21,7 +21,7 @@ layout: /layouts/base.njk
     <div class="container container__wide page-gallery">
       {% for image in project_gallery %}
         <div class="page-gallery--item">
-          {% srcset image.file, image.alt, "post__image", 300, 300, "(min-width: 1120px) 310px, (min-width: 720px) 25vw, 90vw", image.crop %}
+          {% srcset image, 'Project image', "post__image", 300, 300, "(min-width: 1120px) 310px, (min-width: 720px) 25vw, 90vw" %}
         </div>
       {% endfor %}
     </div>
