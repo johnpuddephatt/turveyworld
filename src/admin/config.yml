@@ -13,7 +13,7 @@ collections:
     fields:
       - {label: Layout, name: 'layout', widget: 'hidden', default: 'layouts/project.njk'}
       - {label: 'Title', name: 'title', widget: 'string' }
-      - {label: 'Date', name: 'date', widget: 'date' }
+      - {label: 'Date', name: 'date', widget: 'date', hint: 'The date is not shown publicly, however it is used to determine the order of projects on the homepage.' }
       - label: Thumbnail image
         name: thumb_image
         widget: object
