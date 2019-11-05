@@ -19,16 +19,18 @@
 
   svg {
     display: block;
-    width: 12 * $base-spacing;
+    margin-bottom: .4rem;
+    width: 15 * $base-spacing;
     height: auto;
-    max-height: 70px; // IE11?
+    max-height: 85px; // IE11?
 
     path {
       fill: $base-font-color;
       transition: fill 3 * $base-duration;
     }
   }
-  &:hover svg path:first-child {
+  &:hover svg g:first-child path {
     fill: $orange;
+    stroke: $orange;
   }
 }

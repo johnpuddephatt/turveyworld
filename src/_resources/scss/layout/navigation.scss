@@ -21,7 +21,7 @@ label[for="nav-trigger"] {
 
   .page-link {
     font-weight: 700;
-    font-size: modular-scale(-1);
+    font-size: modular-scale(0);
     color: $base-font-color;
     line-height: $base-line-height;
     transition: color 3 * $base-duration;
@@ -42,7 +42,7 @@ label[for="nav-trigger"] {
     }
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
-      margin-right: 2 * $base-spacing;
+      margin-right: 1.5 * $base-spacing;
     }
 
     &:hover {

@@ -11,10 +11,27 @@
   + .page-gallery--item  {
     @media screen and (min-width: $medium-screen) {
       margin-left: $base-spacing;
-    }  
+    }
   }
 }
 
+.pagination {
+  margin-top: 1.5 * $base-spacing;
+  display: flex;
+  flex-direction: row;
+  .pagination-item.next {
+    margin-left: auto;
+  }
+  a {
+    text-decoration: none;
+  }
+}
+.back-to-home {
+  display: inline-block;
+  text-transform: lowercase;
+  text-decoration: none;
+  margin-bottom: $small-spacing;
+}
 
 /*
 ** Current work page

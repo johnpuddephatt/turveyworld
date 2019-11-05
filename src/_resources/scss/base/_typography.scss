@@ -2,12 +2,12 @@ html {
   color: $base-font-color;
   font-family: $base-font-family;
   line-height: $base-line-height;
-  font-size: 0.875em;
+  font-size: 1em;
   @media screen and (min-width: $medium-screen) {
-    font-size: 1em;
+    font-size: 1.15em;
   }
   @media screen and (min-width: $large-screen) {
-    font-size: 1.125em;
+    font-size: 1.1875em;
   }
 }
 
