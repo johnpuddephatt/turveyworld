@@ -12,7 +12,7 @@ label[for="nav-trigger"] {
   line-height: $base-line-height;
   text-align: center;
   margin-top: $base-spacing;
-  
+
   @media screen and (min-width: $xl-screen) {
     text-align: left;
     margin-top: 0;
@@ -48,7 +48,10 @@ label[for="nav-trigger"] {
     }
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
-      margin-right: 1.5 * $base-spacing;
+      margin-right: $base-spacing;
+      @media screen and (min-width: $xl-screen) {
+        margin-right: 1.5 * $base-spacing;
+      }
     }
 
     &:hover {
