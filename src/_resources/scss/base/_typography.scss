@@ -26,7 +26,9 @@ h6 {
 }
 
 .section-title {
-  text-align: center;
+  @media screen and (min-width: $medium-screen) {
+    text-align: center;
+  }
   margin-bottom: $base-spacing;
   font-size: modular-scale(2);
   @extend .container;
