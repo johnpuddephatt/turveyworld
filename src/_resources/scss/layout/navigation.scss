@@ -48,7 +48,10 @@ label[for="nav-trigger"] {
     }
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
-      margin-right: $base-spacing;
+      margin-right: $small-spacing;
+      @media screen and (min-width: $medium-screen) {
+        margin-right: $base-spacing;
+      }
       @media screen and (min-width: $xl-screen) {
         margin-right: 1.5 * $base-spacing;
       }
