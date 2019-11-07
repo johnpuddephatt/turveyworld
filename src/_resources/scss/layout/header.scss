@@ -1,11 +1,11 @@
 .site-header {
   > .container {
-    display: flex;
-    flex-direction: row;
-    align-items: flex-end;
-    justify-content: space-between;
     margin: 1.5 * $base-spacing auto;
     @media screen and (min-width: $xl-screen) {
+      display: flex;
+      flex-direction: row;
+      align-items: flex-end;
+      justify-content: space-between;
       margin: 2.5 * $base-spacing auto 2 * $base-spacing;
     }
   }
@@ -19,7 +19,7 @@
 
   svg {
     display: block;
-    margin-bottom: .4rem;
+    margin: 0 auto .4rem;
     width: 15 * $base-spacing;
     height: auto;
     max-height: 85px; // IE11?

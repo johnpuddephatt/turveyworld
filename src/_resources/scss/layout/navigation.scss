@@ -10,7 +10,13 @@ label[for="nav-trigger"] {
 
 .site-nav {
   line-height: $base-line-height;
-
+  text-align: center;
+  margin-top: $base-spacing;
+  
+  @media screen and (min-width: $xl-screen) {
+    text-align: left;
+    margin-top: 0;
+  }
   .nav-trigger {
       display: none;
   }
@@ -55,77 +61,77 @@ label[for="nav-trigger"] {
     }
   }
 
-  @media screen and (max-width: $xl-screen) {
-    label[for="nav-trigger"] {
-      display: block;
-    }
-    .menu-icon {
-      position: relative;
-      z-index: 9999;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      float: right;
-      width: $base-spacing;
-      height: $base-spacing;
-      line-height: 0;
-      text-align: center;
-      > svg path {
-        fill: $base-font-color;
-        transition: fill $base-duration;
-      }
-      &:hover > svg path {
-        fill: $base-font-color;
-      }
-    }
-
-    input ~ .trigger {
-      position: fixed;
-      transform: translateX(100%);
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      background-color: $base-font-color;
-      transition: transform $base-duration;
-    }
-
-    input:checked {
-      ~ .trigger {
-        z-index: 99;
-        transform: translateX(0);
-        opacity: 1;
-        .page-link {
-          opacity: 1;
-          transform: translateY(0);
-        }
-      }
-      ~ label[for="nav-trigger"] svg path {
-          fill: white;
-        }
-      }
-
-
-    .page-link {
-      display: block;
-      opacity: 0;
-      transform: translateY($small-spacing);
-      color: white;
-      text-align: center;
-      font-size: modular-scale(2);
-      transition: opacity cubic-bezier(0.32, 0.55, 0.42, 0.8) 5 * $base-duration, transform cubic-bezier(0.32, 0.55, 0.42, 0.8) 5 * $base-duration;
-      line-height: 2 * $base-spacing;
-      margin-right: 0 !important;
-      @for $i from 0 through 20 {
-        &:nth-child(#{$i}) {
-          transition-delay: #{$base-duration + $i * $base-duration};
-        }
-      }
-
-    }
-  }
+  // @media screen and (max-width: $xl-screen) {
+  //   label[for="nav-trigger"] {
+  //     display: block;
+  //   }
+  //   .menu-icon {
+  //     position: relative;
+  //     z-index: 9999;
+  //     display: flex;
+  //     align-items: center;
+  //     justify-content: center;
+  //     float: right;
+  //     width: $base-spacing;
+  //     height: $base-spacing;
+  //     line-height: 0;
+  //     text-align: center;
+  //     > svg path {
+  //       fill: $base-font-color;
+  //       transition: fill $base-duration;
+  //     }
+  //     &:hover > svg path {
+  //       fill: $base-font-color;
+  //     }
+  //   }
+  //
+  //   input ~ .trigger {
+  //     position: fixed;
+  //     transform: translateX(100%);
+  //     top: 0;
+  //     left: 0;
+  //     right: 0;
+  //     bottom: 0;
+  //     display: flex;
+  //     flex-direction: column;
+  //     align-items: center;
+  //     justify-content: center;
+  //     background-color: $base-font-color;
+  //     transition: transform $base-duration;
+  //   }
+  //
+  //   input:checked {
+  //     ~ .trigger {
+  //       z-index: 99;
+  //       transform: translateX(0);
+  //       opacity: 1;
+  //       .page-link {
+  //         opacity: 1;
+  //         transform: translateY(0);
+  //       }
+  //     }
+  //     ~ label[for="nav-trigger"] svg path {
+  //         fill: white;
+  //       }
+  //     }
+  //
+  //
+  //   .page-link {
+  //     display: block;
+  //     opacity: 0;
+  //     transform: translateY($small-spacing);
+  //     color: white;
+  //     text-align: center;
+  //     font-size: modular-scale(2);
+  //     transition: opacity cubic-bezier(0.32, 0.55, 0.42, 0.8) 5 * $base-duration, transform cubic-bezier(0.32, 0.55, 0.42, 0.8) 5 * $base-duration;
+  //     line-height: 2 * $base-spacing;
+  //     margin-right: 0 !important;
+  //     @for $i from 0 through 20 {
+  //       &:nth-child(#{$i}) {
+  //         transition-delay: #{$base-duration + $i * $base-duration};
+  //       }
+  //     }
+  //
+  //   }
+  // }
 }
