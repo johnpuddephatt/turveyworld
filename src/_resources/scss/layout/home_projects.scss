@@ -60,6 +60,9 @@
 }
 
 .home-project--title {
-  font-size: modular-scale(2);
+  font-size: modular-scale(1);
+  @media screen and (min-width: $medium-screen) {
+    font-size: modular-scale(2);
+  }
   margin-bottom: 0;
 }
