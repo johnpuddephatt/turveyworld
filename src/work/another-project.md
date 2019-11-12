@@ -1,8 +1,11 @@
 ---
-title: Another project
+title: Workshops in York
+date: 2019-01-03T00:00:00.000Z
 image:
+  alt: Image
+  crop: gravity.center
   file: /uploads/current-project-1.jpg
-  alt: ''
-date: 2019-01-03
 ---
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+Gerry is collaborating with St Bede's Centre in York, and running some movement workshops around the theme of The Generous Body.
+
+The first of these will be in early Feburary.
