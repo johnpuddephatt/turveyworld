@@ -1,9 +1,10 @@
 ---
 title: The Generous Body
+date: 2019-11-14T00:00:00.000Z
 image:
+  alt: image
+  crop: gravity.center
   file: /uploads/current-project-2.jpg
-  alt: ''
-date: 2019-01-02
 ---
 A series of workshops exploring the relationship of body to our environment.
 
