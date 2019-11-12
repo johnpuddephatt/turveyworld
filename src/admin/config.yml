@@ -14,45 +14,47 @@ collections:
     fields:
       - {label: Layout, name: 'layout', widget: 'hidden', default: 'layouts/project.njk'}
       - {label: 'Title', name: 'title', widget: 'string' }
-      - {label: 'Date', name: 'date', widget: 'date', hint: 'The date is not shown publicly, however it is used to determine the order of projects on the homepage.' }
+      - {label: 'Date', name: 'date', widget: 'datetime', hint: 'The date is not shown publicly, however it is used to determine the order in which items are shown.', dateFormat: 'Do MMM YYYY', timeFormat: false  }
       - label: Thumbnail image
         name: thumb_image
         widget: object
         fields:
           - { label: 'Image', name: 'file', widget: 'image' }
-          - {label: 'Alt text', name: 'alt', widget: 'string' }
+          - {label: 'Alt text', name: 'alt', widget: 'string', required: false }
           - label: 'Crop'
             name: 'crop'
             widget: 'select'
+            default: 'gravity.center'
             options:
               - { label: "Center", value: "gravity.center" }
-              - { label: "North", value: "gravity.north" }
-              - { label: "North-east", value: "gravity.northeast" }
-              - { label: "East", value: "gravity.east" }
-              - { label: "South-east", value: "gravity.southeast" }
-              - { label: "South", value: "gravity.south" }
-              - { label: "South-west", value: "gravity.southwest" }
-              - { label: "West", value: "gravity.west" }
-              - { label: "North-west", value: "gravity.northwest" }
+              - { label: "Top", value: "gravity.north" }
+              - { label: "Top right", value: "gravity.northeast" }
+              - { label: "Right", value: "gravity.east" }
+              - { label: "Bottom right", value: "gravity.southeast" }
+              - { label: "Bottom", value: "gravity.south" }
+              - { label: "Bottom left", value: "gravity.southwest" }
+              - { label: "Left", value: "gravity.west" }
+              - { label: "Top left", value: "gravity.northwest" }
       - label: Header image
         name: header_image
         widget: object
         fields:
           - { label: 'Image', name: 'file', widget: 'image' }
-          - {label: 'Alt text', name: 'alt', widget: 'string' }
+          - {label: 'Alt text', name: 'alt', widget: 'string', required: false }
           - label: 'Crop'
             name: 'crop'
             widget: 'select'
+            default: 'gravity.center'
             options:
               - { label: "Center", value: "gravity.center" }
-              - { label: "North", value: "gravity.north" }
-              - { label: "North-east", value: "gravity.northeast" }
-              - { label: "East", value: "gravity.east" }
-              - { label: "South-east", value: "gravity.southeast" }
-              - { label: "South", value: "gravity.south" }
-              - { label: "South-west", value: "gravity.southwest" }
-              - { label: "West", value: "gravity.west" }
-              - { label: "North-west", value: "gravity.northwest" }
+              - { label: "Top", value: "gravity.north" }
+              - { label: "Top right", value: "gravity.northeast" }
+              - { label: "Right", value: "gravity.east" }
+              - { label: "Bottom right", value: "gravity.southeast" }
+              - { label: "Bottom", value: "gravity.south" }
+              - { label: "Bottom left", value: "gravity.southwest" }
+              - { label: "Left", value: "gravity.west" }
+              - { label: "Top left", value: "gravity.northwest" }
       - { label: 'Body', name: 'body', widget: 'markdown'}
       - label: "Gallery"
         name: "project_gallery"
@@ -65,26 +67,27 @@ collections:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - {label: 'Date', name: 'date', widget: 'date' }
+      - {label: 'Date', name: 'date', widget: 'datetime', hint: 'The date is not shown publicly, however it is used to determine the order in which items are shown.', dateFormat: 'Do MMM YYYY', timeFormat: false}
       - label: Image
         name: image
         widget: object
         fields:
           - { label: 'Image', name: 'file', widget: 'image' }
-          - {label: 'Alt text', name: 'alt', widget: 'string' }
+          - {label: 'Alt text', name: 'alt', widget: 'string', required: false }
           - label: 'Crop'
             name: 'crop'
             widget: 'select'
+            default: 'gravity.center'
             options:
               - { label: "Center", value: "gravity.center" }
-              - { label: "North", value: "gravity.north" }
-              - { label: "North-east", value: "gravity.northeast" }
-              - { label: "East", value: "gravity.east" }
-              - { label: "South-east", value: "gravity.southeast" }
-              - { label: "South", value: "gravity.south" }
-              - { label: "South-west", value: "gravity.southwest" }
-              - { label: "West", value: "gravity.west" }
-              - { label: "North-west", value: "gravity.northwest" }
+              - { label: "Top", value: "gravity.north" }
+              - { label: "Top right", value: "gravity.northeast" }
+              - { label: "Right", value: "gravity.east" }
+              - { label: "Bottom right", value: "gravity.southeast" }
+              - { label: "Bottom", value: "gravity.south" }
+              - { label: "Bottom left", value: "gravity.southwest" }
+              - { label: "Left", value: "gravity.west" }
+              - { label: "Top left", value: "gravity.northwest" }
       - { label: 'Body', name: 'body', widget: 'markdown'}
   - name: 'videos'
     label: 'Videos'
@@ -94,7 +97,7 @@ collections:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - {label: 'Date', name: 'date', widget: 'date' }
+      - {label: 'Date', name: 'date', widget: 'datetime', hint: 'The date is not shown publicly, however it is used to determine the order in which projects are shown.', dateFormat: 'Do MMM YYYY', timeFormat: false }
       - { label: 'Video', name: 'video', hint: 'Copy and paste the video embed code here. You can typically find this by clicking ‘share’ on the video page', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown'}
   - label: "Pages"
@@ -119,20 +122,21 @@ collections:
             widget: object
             fields:
               - { label: 'Image', name: 'file', widget: 'image' }
-              - {label: 'Alt text', name: 'alt', widget: 'string' }
+              - {label: 'Alt text', name: 'alt', widget: 'string', required: false }
               - label: 'Crop'
                 name: 'crop'
                 widget: 'select'
+                default: 'gravity.center'
                 options:
                   - { label: "Center", value: "gravity.center" }
-                  - { label: "North", value: "gravity.north" }
-                  - { label: "North-east", value: "gravity.northeast" }
-                  - { label: "East", value: "gravity.east" }
-                  - { label: "South-east", value: "gravity.southeast" }
-                  - { label: "South", value: "gravity.south" }
-                  - { label: "South-west", value: "gravity.southwest" }
-                  - { label: "West", value: "gravity.west" }
-                  - { label: "North-west", value: "gravity.northwest" }
+                  - { label: "Top", value: "gravity.north" }
+                  - { label: "Top right", value: "gravity.northeast" }
+                  - { label: "Right", value: "gravity.east" }
+                  - { label: "Bottom right", value: "gravity.southeast" }
+                  - { label: "Bottom", value: "gravity.south" }
+                  - { label: "Bottom left", value: "gravity.southwest" }
+                  - { label: "Left", value: "gravity.west" }
+                  - { label: "Top left", value: "gravity.northwest" }
       - label: "About"
         name: "about"
         file: "/src/pages/about.md"
@@ -144,20 +148,21 @@ collections:
             widget: object
             fields:
               - { label: 'Image', name: 'file', widget: 'image' }
-              - {label: 'Alt text', name: 'alt', widget: 'string' }
+              - {label: 'Alt text', name: 'alt', widget: 'string', required: false }
               - label: 'Crop'
                 name: 'crop'
                 widget: 'select'
+                default: 'gravity.center'
                 options:
                   - { label: "Center", value: "gravity.center" }
-                  - { label: "North", value: "gravity.north" }
-                  - { label: "North-east", value: "gravity.northeast" }
-                  - { label: "East", value: "gravity.east" }
-                  - { label: "South-east", value: "gravity.southeast" }
-                  - { label: "South", value: "gravity.south" }
-                  - { label: "South-west", value: "gravity.southwest" }
-                  - { label: "West", value: "gravity.west" }
-                  - { label: "North-west", value: "gravity.northwest" }
+                  - { label: "Top", value: "gravity.north" }
+                  - { label: "Top right", value: "gravity.northeast" }
+                  - { label: "Right", value: "gravity.east" }
+                  - { label: "Bottom right", value: "gravity.southeast" }
+                  - { label: "Bottom", value: "gravity.south" }
+                  - { label: "Bottom left", value: "gravity.southwest" }
+                  - { label: "Left", value: "gravity.west" }
+                  - { label: "Top left", value: "gravity.northwest" }
           - { label: 'Body', name: 'body', widget: 'markdown'}
       - label: "Yoga"
         name: "yoga"
@@ -170,20 +175,21 @@ collections:
             widget: object
             fields:
               - { label: 'Image', name: 'file', widget: 'image' }
-              - {label: 'Alt text', name: 'alt', widget: 'string' }
+              - {label: 'Alt text', name: 'alt', widget: 'string', required: false }
               - label: 'Crop'
                 name: 'crop'
                 widget: 'select'
+                default: 'gravity.center'
                 options:
                   - { label: "Center", value: "gravity.center" }
-                  - { label: "North", value: "gravity.north" }
-                  - { label: "North-east", value: "gravity.northeast" }
-                  - { label: "East", value: "gravity.east" }
-                  - { label: "South-east", value: "gravity.southeast" }
-                  - { label: "South", value: "gravity.south" }
-                  - { label: "South-west", value: "gravity.southwest" }
-                  - { label: "West", value: "gravity.west" }
-                  - { label: "North-west", value: "gravity.northwest" }
+                  - { label: "Top", value: "gravity.north" }
+                  - { label: "Top right", value: "gravity.northeast" }
+                  - { label: "Right", value: "gravity.east" }
+                  - { label: "Bottom right", value: "gravity.southeast" }
+                  - { label: "Bottom", value: "gravity.south" }
+                  - { label: "Bottom left", value: "gravity.southwest" }
+                  - { label: "Left", value: "gravity.west" }
+                  - { label: "Top left", value: "gravity.northwest" }
           - { label: 'Body', name: 'body', widget: 'markdown'}
       - label: "Contact"
         name: "contact"
@@ -196,18 +202,19 @@ collections:
             widget: object
             fields:
               - { label: 'Image', name: 'file', widget: 'image' }
-              - {label: 'Alt text', name: 'alt', widget: 'string' }
+              - {label: 'Alt text', name: 'alt', widget: 'string', required: false }
               - label: 'Crop'
                 name: 'crop'
                 widget: 'select'
+                default: 'gravity.center'
                 options:
                   - { label: "Center", value: "gravity.center" }
-                  - { label: "North", value: "gravity.north" }
-                  - { label: "North-east", value: "gravity.northeast" }
-                  - { label: "East", value: "gravity.east" }
-                  - { label: "South-east", value: "gravity.southeast" }
-                  - { label: "South", value: "gravity.south" }
-                  - { label: "South-west", value: "gravity.southwest" }
-                  - { label: "West", value: "gravity.west" }
-                  - { label: "North-west", value: "gravity.northwest" }
+                  - { label: "Top", value: "gravity.north" }
+                  - { label: "Top right", value: "gravity.northeast" }
+                  - { label: "Right", value: "gravity.east" }
+                  - { label: "Bottom right", value: "gravity.southeast" }
+                  - { label: "Bottom", value: "gravity.south" }
+                  - { label: "Bottom left", value: "gravity.southwest" }
+                  - { label: "Left", value: "gravity.west" }
+                  - { label: "Top left", value: "gravity.northwest" }
           - { label: 'Body', name: 'body', widget: 'markdown'}

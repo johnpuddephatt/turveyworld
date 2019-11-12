@@ -4,7 +4,7 @@ title: Current projects
 ---
 <div class="container">
 
-  {%- for item in collections.work %}
+  {%- for item in collections.work | reverse %}
     <section class="project-item">
       <div class="project-item--text">
         <h2 class="project-item--title">{{ item.data.title | safe }}</h2>

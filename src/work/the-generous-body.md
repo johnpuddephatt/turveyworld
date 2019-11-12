@@ -1,8 +1,8 @@
 ---
 title: The Generous Body
-date: 2019-11-14T00:00:00.000Z
+date: 2019-01-03T00:00:00.000Z
 image:
-  alt: image
+  alt: 
   crop: gravity.center
   file: /uploads/current-project-2.jpg
 ---
