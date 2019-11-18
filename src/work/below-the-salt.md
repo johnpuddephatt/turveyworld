@@ -7,4 +7,4 @@ image:
 ---
 Below the Salt.
 
-Gerry will be collaborating with Artist Catherine Bertola to create a film in the underground passageways at Temple Newsam House in early 2020. To re animate and reveal the hidden parts previously used by servants. The film will be shown as part of Catherine's exhibition in April 2020 which is part of the 500 year celebration at the house.
+1. As part of the 500 year anniversary at Temple Newsam House, Gerry will be collaborating with Artist Catherine Bertola. They will create a film in the underground passageways and hidden stairwells of the house with a group of dancers. The film will be shown in Catherine's exhibition from April 2020.
