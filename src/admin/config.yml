@@ -164,6 +164,26 @@ collections:
                   - { label: "Left", value: "gravity.west" }
                   - { label: "Top left", value: "gravity.northwest" }
           - { label: 'Body', name: 'body', widget: 'markdown'}
+          - label: Footer image
+            name: footer_image
+            widget: object
+            fields:
+              - { label: 'Image', name: 'file', widget: 'image' }
+              - {label: 'Alt text', name: 'alt', widget: 'string', required: false }
+              - label: 'Crop'
+                name: 'crop'
+                widget: 'select'
+                default: 'gravity.center'
+                options:
+                  - { label: "Center", value: "gravity.center" }
+                  - { label: "Top", value: "gravity.north" }
+                  - { label: "Top right", value: "gravity.northeast" }
+                  - { label: "Right", value: "gravity.east" }
+                  - { label: "Bottom right", value: "gravity.southeast" }
+                  - { label: "Bottom", value: "gravity.south" }
+                  - { label: "Bottom left", value: "gravity.southwest" }
+                  - { label: "Left", value: "gravity.west" }
+                  - { label: "Top left", value: "gravity.northwest" }
       - label: "Yoga"
         name: "yoga"
         file: "/src/pages/yoga.md"

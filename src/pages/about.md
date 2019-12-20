@@ -5,6 +5,10 @@ header_image:
   file: /uploads/about-2.jpg
   alt:
   crop: gravity.north
+footer_image:
+  file: /uploads/gallery/P1030209EP.jpg
+  alt:
+  crop: gravity.north
 ---
 Gerry’s work challenges notions of physicality: sensitively designing temporary alliances to the surroundings.
 
