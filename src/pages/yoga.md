@@ -28,7 +28,7 @@ If you would like a one to one yoga class please contact Gerry directly.
 ### The Yoga Space Leeds
 
 * Flow: Sunday 4.00pm to 5.15pm
-* Hatha: Monday 5.30=6.30
+* Hatha: Monday 5.30-6.30
 * Restorative: last Friday of the month, 7pm to 8.15pm
 * Yin: Third Sunday of the month, 5.30pm to 6.45pm
 
