@@ -19,7 +19,7 @@ She encourages correcting skeletal alignment, and using yoga to make the body mo
 >
 > > Lara Eggleton, writer, editor and consultant
 
-Gerry's teaches regular Yoga classes, at the Yoga Space Leeds, Leeds University and Leeds Yoga.
+Gerry's teaches regular Yoga classes, at the Yoga Space Leeds, Leeds University and Sheng Yoga.
 
 If you would like a one to one yoga class please contact Gerry directly.
 
@@ -27,18 +27,22 @@ If you would like a one to one yoga class please contact Gerry directly.
 
 ### The Yoga Space Leeds
 
-* Flow: Sunday 4.00pm to 5.15pm
+* Flow: Last sunday of each month  4.00pm to 5.15pm
 * Hatha: Monday 5.30-6.30
 * Restorative: last Friday of the month, 7pm to 8.15pm
-* Yin: First and Third Sunday of the month, 5.30pm to 6.45pm
+* Yin: 2nd and 4th Sunday of the month, 5.30pm to 6.45pm
 
 Sign up online at [www.theyogaspace.co.uk](www.theyogaspace.co.uk)
 
 Or you can drop in. No need to sign up, come when you can.
 
-### The Edge Gym at Leeds University
+### The Edge Gym at Leeds University. 
 
 * Hatha: Monday 7.30am to 8.30am
 * Flow: Tuesday 11am to 11.55am
 
-Please book two days before with reception.
+Please book before with reception.
+
+### Sheng Yoga
+
+Monthly classes for refugee and asylum seeking women. In collaboration with LASSAN. Space generously donated by Sheng Yoga.
