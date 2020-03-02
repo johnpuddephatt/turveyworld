@@ -9,6 +9,6 @@ image:
 
   **Yoga for Cyclists.** Yoga Space Leeds.  Sat 28  March 4-530 £15 Booking <https://theyogaspace.co.uk/>
 
-  **Moving into Sculpture.** Yorkshire Artspace Sheffield. Sat April 18. £10. Booking please contact Gerry
+  **Moving into Sculpture.** Exchange Place Studios  Sheffield. Sat April 18. £10. Booking please contact Gerry
 
   **Marking Movement.** Stanley and Audrey Burton Gallery University of Leeds. Sat  May 30. Booking details to follow.
