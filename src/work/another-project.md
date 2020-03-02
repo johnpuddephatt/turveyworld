@@ -5,7 +5,7 @@ image:
   crop: gravity.center
   file: /uploads/drawing-and-dancing-4.jpg
 ---
-* **The Generous Body**. St Bede's Centre York. Sat 21 March. 2-4.30. £15. Booking. [admin@stbedes.org.uk](< admin@stbedes.org.uk>) / 01904 464900. 
+* **The Generous Body**. St Bede's Centre York. Sat 21 March. 2-4.30. £15. Booking. 01904 464900. 
 
   **Yoga for Cyclists.** Yoga Space Leeds.  Sat 28  March 4-530 £15 Booking <https://theyogaspace.co.uk/>
 
