@@ -27,16 +27,21 @@ If you would like a one to one yoga class please contact Gerry directly.
 
 ### The Yoga Space Leeds
 
-* Flow: Last sunday of each month  4.00pm to 5.15pm
-* Hatha: Monday 5.30-6.30
-* Restorative: last Friday of the month, 7pm to 8.15pm
-* Yin: 2nd and 4th Sunday of the month, 5.30pm to 6.45pm
+* Flow: Last Sunday of each month  4.00pm to 5.15pm
+
+  Hatha: Monday 5.30-6.30pm
+
+  Hatha: Wednesday 10-11 am
+
+  Restorative: last Friday of the month, 7pm to 8.15pm
+
+  Yin: 2nd and 4th Sunday of the month, 5.30pm to 6.45pm
 
 Sign up online at [www.theyogaspace.co.uk](www.theyogaspace.co.uk)
 
 Or you can drop in. No need to sign up, come when you can.
 
-### The Edge Gym at Leeds University. 
+### The Edge Gym at Leeds University.
 
 * Hatha: Monday 7.30am to 8.30am
 * Flow: Tuesday 11am to 11.55am
