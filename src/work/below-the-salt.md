@@ -6,8 +6,6 @@ image:
   file: >-
     /uploads/catherine-bertola-sad-bones-brook-street-2017-burnt-book-page-330x-360mm-unframed.jpg
 ---
-As part of the 500 year anniversary at Temple Newsam House, Gerry will be collaborating with Artist Catherine Bertola. They will create a film with some dancers in the underground passageways and hidden stairwells of the house to reflect how the servants would navigate unseen below the building.  The film will be shown in Catherine's exhibition at the house from April  to Nov 2020. Exhibition Opening April 4th.
+As part of the 500 year anniversary at Temple Newsam House, Gerry collaborated with Artist Catherine Bertola. She created a film with thress dancers in the underground passageways and hidden stairwells of the house to reflect how the servants would navigate unseen below the building.  The film will be shown in Catherine's exhibition at the house from April  to Nov 2020. Exhibition was due to open on April 4th. It exhibition will now open later this year.
 
 Photo credit *Catherine Bertola, Sad Bones (Brook Street), 2017, burnt book page, 330x 360mm unframed*
-
-Please not the exhibition will now open later in the Year__
