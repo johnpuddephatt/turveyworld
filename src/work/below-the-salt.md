@@ -1,6 +1,6 @@
 ---
 title: Below the Salt
-date: 2020-02-28T15:56:37.336Z
+date: 2020-03-29T23:00:00.000Z
 image:
   crop: gravity.center
   file: >-
@@ -10,4 +10,4 @@ As part of the 500 year anniversary at Temple Newsam House, Gerry will be collab
 
 Photo credit *Catherine Bertola, Sad Bones (Brook Street), 2017, burnt book page, 330x 360mm unframed*
 
-__
+Please not the exhibition will now open later in the Year__
