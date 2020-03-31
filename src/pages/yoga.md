@@ -27,6 +27,8 @@ If you would like a one to one yoga class please contact Gerry directly.
 
 ### The Yoga Space Leeds
 
+Please note all these classes are now  'LIVE STREAMED' Please check Yoga Space timetable for times.
+
 * Flow: Last Sunday of each month  4.00pm to 5.15pm
 * Hatha: Monday 5.30-6.30pm
 * Hatha: Wednesday 10-11 am
@@ -38,6 +40,8 @@ Sign up online at [www.theyogaspace.co.uk](www.theyogaspace.co.uk)
 Or you can drop in. No need to sign up, come when you can.
 
 ### The Edge Gym at Leeds University.
+
+These classes are suspended until The Edge opens again
 
 * Hatha: Monday 7.30am to 8.30am
 * Flow: Tuesday 11am to 11.55am
