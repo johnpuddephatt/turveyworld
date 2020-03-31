@@ -7,8 +7,8 @@ image:
 ---
 * **The Generous Body**. St Bede's Centre York. Sat 21 March. 2-4.30. £15. Booking. 01904 464900. 
 
-  **Yoga for Cyclists.** Yoga Space Leeds.  Sat 28  March 4-530 £15 Booking <https://theyogaspace.co.uk/>
+  Cancelled
 
-  **Moving into Sculpture.** Exchange Place Studios  Sheffield. Sat April 18. £10. Booking please contact Gerry
+  **Moving into Sculpture.** Exchange Place Studios  Sheffield. Sat April 18. £10. Postponed
 
   **Marking Movement.** Stanley and Audrey Burton Gallery University of Leeds. Sat  May 30. Booking details to follow.
