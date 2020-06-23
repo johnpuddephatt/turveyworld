@@ -29,13 +29,13 @@ If you would like a one to one yoga class please contact Gerry directly.
 
 Please note all these classes are now  'LIVE STREAMED' Please check Yoga Space timetable for times.
 
-* Flow: Last Sunday of each month  4.00pm to 5.15pm
-* Hatha: Monday 5.30-6.30pm
+* Flow: Last Sunday of each month  4.00pm to 5.00pm
+* Hatha: (Online only) 5.30-6.30pm
 * Hatha: Wednesday 10-11 am
-* Restorative: last Friday of the month, 7pm to 8.15pm
-* Yin: 2nd and 4th Sunday of the month, 5.30pm to 6.45pm
+* Restorative: Twice a month on Fridays: 7pm to 8.15pm
+* Yin:  Sundays 5.30pm to 6.45pm
 
-Sign up online at [www.theyogaspace.co.uk](www.theyogaspace.co.uk)
+Sign up online at [www.theyogaspace.co.uk]([www.theyogaspace.co.uk](www.theyogaspace.co.uk))
 
 Or you can drop in. No need to sign up, come when you can.
 
@@ -48,6 +48,6 @@ These classes are suspended until The Edge opens again
 
 Please book before with reception.
 
-### Sheng Yoga
 
-Monthly classes for refugee and asylum seeking women. In collaboration with LASSN. Space generously donated by Sheng Yoga.
+
+Gerry will be restarting classes for refugee and asylum seeking women. In collaboration with LASSN. Space and technical equipment generously donated by The Yoga Space.
