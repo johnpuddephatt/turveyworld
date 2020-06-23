@@ -19,7 +19,7 @@ She encourages correcting skeletal alignment, and using yoga to make the body mo
 >
 > > Lara Eggleton, writer, editor and consultant
 
-Gerry's teaches regular Yoga classes, at the Yoga Space Leeds, Leeds University and Sheng Yoga.
+Gerry's teaches regular Yoga classes, at the Yoga Space Leeds, Leeds University and the Edge Gym
 
 If you would like a one to one yoga class please contact Gerry directly.
 
