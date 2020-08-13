@@ -32,7 +32,7 @@ The Yoga Space is now open for classes, or if you prefer you can still follow th
 * Flow: Last Sunday of each month  4.30-pm to 5.30pm
 * Hatha: (Zoom only) 5.00-6.00pm
 * Hatha: Wednesday 10-11 am
-* Restorative: Once a month on Fridays: 7pm to 8.15pm.
+* Restorative: (Zoom only) Once a month on Fridays: 7pm to 8.15pm.
 * Yin:  Sundays 6 pm to 7pm
 
 Sign up online at [www.theyogaspace.co.uk]([www.theyogaspace.co.uk](www.theyogaspace.co.uk))
