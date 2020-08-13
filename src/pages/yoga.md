@@ -27,27 +27,16 @@ If you would like a one to one yoga class please contact Gerry directly.
 
 ### The Yoga Space Leeds
 
-Please note all these classes are now  'LIVE STREAMED' Please check Yoga Space timetable for times.
+The Yoga Space is now open for classes, or if you prefer you can still follow them on Zoom at the same time.
 
-* Flow: Last Sunday of each month  4.00pm to 5.00pm
-* Hatha: (Online only) 5.30-6.30pm
+* Flow: Last Sunday of each month  4.30-pm to 5.30pm
+* Hatha: (Zoom only) 5.00-6.00pm
 * Hatha: Wednesday 10-11 am
-* Restorative: Twice a month on Fridays: 7pm to 8.15pm
-* Yin:  Sundays 5.30pm to 6.45pm
+* Restorative: Once a month on Fridays: 7pm to 8.15pm.
+* Yin:  Sundays 6 pm to 7pm
 
 Sign up online at [www.theyogaspace.co.uk]([www.theyogaspace.co.uk](www.theyogaspace.co.uk))
 
-Or you can drop in. No need to sign up, come when you can.
+Please book and pay for class before, and bring your own mat if you are coming into the studio.
 
-### The Edge Gym at Leeds University.
-
-These classes are suspended until The Edge opens again
-
-* Hatha: Monday 7.30am to 8.30am
-* Flow: Tuesday 11am to 11.55am
-
-Please book before with reception.
-
-
-
-Gerry will be restarting classes for refugee and asylum seeking women. In collaboration with LASSN. Space and technical equipment generously donated by The Yoga Space.
+Gerry is running some Zoom classes for refugee and asylum seeking women. In collaboration with LASSN. Space and technical equipment generously donated by The Yoga Space.
