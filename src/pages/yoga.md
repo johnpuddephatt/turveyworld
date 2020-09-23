@@ -30,14 +30,15 @@ If you would like a one to one yoga class please contact Gerry directly.
 The Yoga Space is now open for classes, or if you prefer you can still follow them on Zoom at the same time.
 
 * Flow: Sundays  4.30-pm to 5.30pm (In Studio and on Zoom)
-* Hatha: (online only) 5.00-6.00pm
-* Hatha: Wednesday 10-11 am (In Studio and on Zoom)
-* Restorative: (Zoom only) Once a month on Fridays: 7pm to 8.15pm.
+* Hatha: Mondays 5.00-6.00pm (on-line only)
+* Hatha: Wednesday 10-11 am (In Studio and on Zoom) 
+* Yin: Thursdays 7-8pm (on-line only)
+* Restorative:  Last Friday of the month: 7pm to 8.15pm. (Zoom only)
 * Yin:  Sundays 6 pm to 7pm (In Studio and on Zoom)
 
 Sign up online at [www.theyogaspace.co.uk]([www.theyogaspace.co.uk](www.theyogaspace.co.uk))
 
-Please book and pay for class before, and bring your own mat if you are coming into the studio.
+Please book and pay for class before, and bring your own mat/equipment if you are coming into the studio.
 
 Gerry is running some Zoom classes for refugee and asylum seeking women. In collaboration with LASSN. Space and technical equipment generously donated by The Yoga Space.
 
