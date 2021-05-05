@@ -1,6 +1,6 @@
 ---
 title: The Generous Body
-date: 2019-01-03T00:00:00.000Z
+date: 2021-01-03T00:00:00.000Z
 image:
   alt: null
   crop: gravity.center
