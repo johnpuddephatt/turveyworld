@@ -1,6 +1,6 @@
 ---
 title: Below the Salt
-date: 2020-09-14T15:39:27.035Z
+date: 2021-05-13T23:00:00.000Z
 image:
   crop: gravity.east
   file: /uploads/25d1f589-f2a8-4ec1-bf8d-6274d0302e3c_1_105_c.jpeg
@@ -12,3 +12,5 @@ Booking essential: <https://www.leedstownhall.co.uk/whats-on/family/temple-newsa
 You can see the film now on the video page of this site
 
 Photo credit *Catherine Bertola, Sad Bones (Brook Street), 2017, burnt book page, 330x 360mm unframed*
+
+Gerry and Catherine are planning another collaboration for later this year.
