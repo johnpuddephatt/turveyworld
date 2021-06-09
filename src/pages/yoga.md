@@ -48,3 +48,11 @@ Hatha Classes with Gerry at The Edge Gym University of Leeds. Tuesday 10-11am. B
 Follow Gerry on line at the Yoga Space for £9.99 a month as many classes as you want.
 
 [https://theyogaspace.co.uk/yoga-space-online](https://theyogaspace.co.uk/yoga-space-online/)/
+
+The Edge Gym University of Leeds
+
+Hatha. Tuesdays 10-11
+
+Booking required
+
+<https://sport.leeds.ac.uk/the-edge/>
