@@ -39,12 +39,6 @@ From May 17 2021The Yoga Space will be open for classes, or if you prefer you ca
 
 Sign up online at  <https://theyogaspace.co.uk/>
 
-Please book and pay for class before, and bring your own mat/equipment if you are coming into the studio.
-
-Hatha Classes with Gerry at The Edge Gym University of Leeds. Tuesday 10-11am. Book 2 days before.
-
-<https://sport.leeds.ac.uk/the-edge/>
-
 Follow Gerry on line at the Yoga Space for £9.99 a month as many classes as you want.
 
 [https://theyogaspace.co.uk/yoga-space-online](https://theyogaspace.co.uk/yoga-space-online/)/
