@@ -1,5 +1,5 @@
 ---
-title: " Design history as embodied site specic practice"
+title: " Design history as embodied site specific practice"
 date: 2021-06-09T14:05:34.938Z
 image:
   crop: gravity.center
