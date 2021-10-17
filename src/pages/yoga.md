@@ -21,21 +21,15 @@ She encourages correcting skeletal alignment, and using yoga to make the body mo
 
 Gerry's teaches regular Yoga classes, at the Yoga Space Leeds, Leeds University and the Edge Gym
 
-If you would like a one to one yoga class please contact Gerry directly.
+**If you would like a one to one yoga class please contact Gerry directly.**
 
 - - -
 
 ### The Yoga Space Leeds
 
-From May 17 2021The Yoga Space will be open for classes, or if you prefer you can still follow them on live on Zoom.
+Hatha: Wednesday 10-11 am (In Studio and on Zoom) 
 
-* Flow: Sundays  4.30-pm to 5.30pm (In Studio and on Zoom)
-
-  Hatha: Wednesday 10-11 am (In Studio and on Zoom) 
-
-  Yin:  Sundays 6 pm to 7pm (In Studio and on Zoom
-
-  Restorative:  Last Friday of the month: 7pm to 8.15pm. 
+Yin + Restore:  Sundays 4.45-7 (In Studio and on Zoom
 
 Sign up online at  <https://theyogaspace.co.uk/>
 
@@ -43,10 +37,12 @@ Follow Gerry on line at the Yoga Space for £9.99 a month as many classes as you
 
 [https://theyogaspace.co.uk/yoga-space-online](https://theyogaspace.co.uk/yoga-space-online/)/
 
-The Edge Gym University of Leeds
+**The Edge Gym University of Leeds**
 
 Hatha. Tuesdays 10-11
 
-Booking required
+Hatha. Wednesdays. 3.15-4.15
+
+Booking required: Tel:0113 3435095
 
 <https://sport.leeds.ac.uk/the-edge/>
