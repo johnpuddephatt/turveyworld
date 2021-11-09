@@ -37,6 +37,8 @@ Follow Gerry on line at the Yoga Space for £9.99 a month as many classes as you
 
 [https://theyogaspace.co.uk/yoga-space-online](https://theyogaspace.co.uk/yoga-space-online/)/
 
+*The yoga space is closing and these classes will finish on Wed Nov 24.*
+
 **The Edge Gym University of Leeds**
 
 Hatha. Tuesdays 10-11
@@ -46,3 +48,10 @@ Hatha. Wednesdays. 3.15-4.15
 Booking required: Tel:0113 3435095
 
 <https://sport.leeds.ac.uk/the-edge/>
+
+**We Are Wellness**. <https://wearewellness.co.uk/>
+
+Gerry will begin teaching here from 5th Jan 2022
+
+the will also be a Slow Hatha Flow and Restorative.workshop Friday 3 Dec. 6.45-8pm. Its £15.00 or £12.50 early-bird (2 weeks before) for booking:\
+<https://clients.mindbodyonline.com/classic/ws?studioid=299588&stype=-103&sView=day&sLoc=0&sTrn=100000003>
