@@ -25,19 +25,25 @@ Gerry's teaches regular Yoga classes, at the Yoga Space Leeds, Leeds University 
 
 - - -
 
-### The Yoga Space Leeds
+**We are Wellness Leeds**   from 5th Jan 2022
 
-Hatha: Wednesday 10-11 am (In Studio and on Zoom) 
+Hatha: Wednesday 9.30-10.30 am (In Studio and online) 
 
-Yin + Restore:  Sundays 4.45-7 (In Studio and on Zoom
+Hatha Flow: Sundays 4.45-5.45
 
-Sign up online at  <https://theyogaspace.co.uk/>
+Yin + Restore:  Sundays 6-7 (In Studio and online)
 
-Follow Gerry on line at the Yoga Space for £9.99 a month as many classes as you want.
+Sign up online at  <https://wearewellness.co.uk/>
 
-[https://theyogaspace.co.uk/yoga-space-online](https://theyogaspace.co.uk/yoga-space-online/)/
+**Monthly Workshops at Wellness 1st Friday of each month.**
 
-*The yoga space is closing and these classes will finish on Wed Nov 24.*
+Friday 3 Dec: Slow Hatha Flow and Restorative. 
+
+Jan 5th: Restorative  
+
+Feb 7th: Restorative
+
+All workshops 6.45-8pm.  £15.00 or £12.50 early-bird (2 weeks before)
 
 **The Edge Gym University of Leeds**
 
@@ -49,9 +55,6 @@ Booking required: Tel:0113 3435095
 
 <https://sport.leeds.ac.uk/the-edge/>
 
-**We Are Wellness**. <https://wearewellness.co.uk/>
+[](https://clients.mindbodyonline.com/classic/ws?studioid=299588&stype=-103&sView=day&sLoc=0&sTrn=100000003)Follow Gerry on line at the Yoga Space for £9.99 a month as many classes as you want.
 
-Gerry will begin teaching here from 5th Jan 2022
-
-the will also be a Slow Hatha Flow and Restorative.workshop Friday 3 Dec. 6.45-8pm. Its £15.00 or £12.50 early-bird (2 weeks before) for booking:\
-<https://clients.mindbodyonline.com/classic/ws?studioid=299588&stype=-103&sView=day&sLoc=0&sTrn=100000003>
+[https://theyogaspace.co.uk/yoga-space-online](https://theyogaspace.co.uk/yoga-space-online/)/
