@@ -28,18 +28,21 @@ Gerry's teaches regular Yoga classes, at the Yoga Space Leeds, Leeds University 
 **We are Wellness Leeds**   from 5th Jan 2022
 
 * Hatha: Wednesday 9.30-10.30 am (In Studio and online) 
-* Hatha Flow: Sundays 4.45-5.45
-* Yin + Restore:  Sundays 6-7 (In Studio and online)
 
 Sign up online at  <https://wearewellness.co.uk/>
 
 **Monthly Workshops at Wellness 1st Friday of each month.**
 
-* Friday 3 Dec: Slow Hatha Flow and Restorative. 
 * Jan 5th: Restorative  
 * Feb 7th: Restorative
 
 All workshops 6.45-8pm.  £15.00 or £12.50 early-bird (2 weeks before)
+
+**Monthly Yin @ The Yoga Space**
+
+4.45-6pm Sunday Jan 9.
+
+<https://theyogaspace.co.uk/>
 
 **The Edge Gym University of Leeds**
 
