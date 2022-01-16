@@ -1,6 +1,6 @@
 ---
 title: Future workshops
-date: 2021-05-01T23:00:00.000Z
+date: 2021-12-16T00:00:00.000Z
 image:
   crop: gravity.center
   file: /uploads/drawing-and-dancing-4.jpg
