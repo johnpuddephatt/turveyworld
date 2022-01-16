@@ -5,6 +5,8 @@ image:
   crop: gravity.center
   file: /uploads/drawing-and-dancing-4.jpg
 ---
-**Gerry will be opening up some workshops when we are able to dance in gallery spaces again. In 2022 she will be developing some workshops with artist Claire Lee in Sheffield.**
+**In 2022 Gerry will be developing some new workshops:**
 
-**In December she will teach a Yoga workshop at We Are Wellness Leeds and two Yoga workshops in Lausanne Switzerland.**
+**With artist Claire Lee in Sheffield during her Exhibition** "Preys B" **in March. [www.cleeclairelee.com](www.cleeclairelee.com)**
+
+**Make Tank in Exeter have invited Gerry to run a site-specific weekend workshop later this year.** <https://www.maketank.org.uk/>
