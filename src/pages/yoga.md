@@ -17,15 +17,15 @@ She encourages correcting skeletal alignment, and using yoga to make the body mo
 
 > As an instructor, Gerry perfectly balances a rigorous practice with gentle self-awareness. Her flow classes are creatively choreographed, so that more challenging poses are easier to embrace and it's possible to go deeper into them. I can't recommend her enough!
 >
-> > Lara Eggleton, writer, editor and consultant
+> Lara Eggleton, writer, editor and consultant
 
-Gerry's teaches regular Yoga classes, at the Yoga Space Leeds, Leeds University and the Edge Gym
+Gerry's teaches regular Yoga classes, at We Are Wellness, Leeds University and the Edge Gym
 
 **If you would like a one to one yoga class please contact Gerry directly.**
 
 - - -
 
-**We are Wellness Leeds**   from 5th Jan 2022
+**We are Wellness Leeds**  
 
 * Hatha: Wednesday 9.30-10.30 am (In Studio and online) 
 
@@ -33,7 +33,6 @@ Sign up online at  <https://wearewellness.co.uk/>
 
 **Monthly Workshops at Wellness 1st Friday of each month.**
 
-* Jan 5th: Restorative  
 * Feb 7th: Restorative
 
 All workshops 6.45-8pm.  £15.00 or £12.50 early-bird (2 weeks before)
