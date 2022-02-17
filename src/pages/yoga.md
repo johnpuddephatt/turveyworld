@@ -35,7 +35,7 @@ Sign up online at  <https://wearewellness.co.uk/>
 
 * 2nd April. 2-4 pm. Nurturing a healthy Spine
 
-**Flow @ The Yoga Space**
+**The Yoga Space**
 
 one-off cover class  Sat 26  March. 10-11.15
 
