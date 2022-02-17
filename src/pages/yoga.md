@@ -27,19 +27,17 @@ Gerry's teaches regular Yoga classes, at We Are Wellness, Leeds University and t
 
 **We are Wellness Leeds**  
 
-* Hatha: Wednesday 9.30-10.30 am 
+* Hatha: Wednesdays: 9.30-10.30 am 
 
 Sign up online at  <https://wearewellness.co.uk/>
 
-**Monthly Workshops at Wellness 1st Friday of each month.**
+**Workshops at Wellness** 
 
-* Feb 4th: Restorative
+* 2nd April. 2-4 pm. Nurturing a healthy Spine
 
-All workshops 6.45-8pm.  £15.00 or £12.50 early-bird (2 weeks before)
+**Flow @ The Yoga Space**
 
-**Monthly Yin @ The Yoga Space**
-
-4.45-6pm Sunday Feb 6th.
+one-off cover class  Sat 26  March. 10-11.15
 
 <https://theyogaspace.co.uk/>
 
