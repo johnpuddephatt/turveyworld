@@ -37,7 +37,7 @@ Sign up online at  <https://wearewellness.co.uk/>
 
 **The Yoga Space**
 
-one-off cover class  Sat 26  March. 10-11.15
+One-off cover. Hatha flow class  Sat 26  March. 10-11.15
 
 <https://theyogaspace.co.uk/>
 
