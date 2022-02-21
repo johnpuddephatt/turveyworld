@@ -1,6 +1,6 @@
 ---
 title: Future workshops
-date: 2021-12-16T00:00:00.000Z
+date: 2022-02-20T00:00:00.000Z
 image:
   crop: gravity.center
   file: /uploads/drawing-and-dancing-4.jpg
@@ -11,6 +11,6 @@ image:
 
 **[www.cleeclairelee.com](www.cleeclairelee.com)**
 
-**Make Tank in Exeter have invited Gerry to run a site-specific weekend workshop 5/6 May during the 'Bloom Festival'**  <https://exeterphoenix.org.uk/bloom-2022/> 
+**Make Tank in Exeter have invited Gerry to run a site-specific weekend workshop 7/8 May during the 'Bloom Festival'**  <https://exeterphoenix.org.uk/bloom-2022/> 
 
 <https://www.maketank.org.uk/>
