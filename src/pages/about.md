@@ -3,11 +3,11 @@ layout: layouts/page.njk
 title: About
 header_image:
   file: /uploads/about-2.jpg
-  alt:
+  alt: null
   crop: gravity.north
 footer_image:
   file: /uploads/gallery/P1030209EP.jpg
-  alt:
+  alt: null
   crop: gravity.north
 ---
 Gerry’s work challenges notions of physicality: sensitively designing temporary alliances to the surroundings.
@@ -31,8 +31,8 @@ Gerry’s work has been seen in a wide range of art galleries, using art works a
 She is also an experienced community dance artist and spent and seven years with Hoot Creative Arts (Huddersfield) for users of the mental health service, and worked extensively with in integrated dance practices with people who have a range of disabilities.
 
 > I was impressed by the great and creative work you accomplished. I was touched by the authenticity.
-I liked the way you ‘live and wear’ the spaces
+> I liked the way you ‘live and wear’ the spaces
 
 Gerry’s practice is based in community partnerships and local culture. Her work is interdisciplinary, and brings people together to experience and witness positive physical participation.
 
-Gerry also teaches [yoga classes](/yoga/) at The Yoga Space Leeds.
+Gerry also teaches [yoga classes](/yoga/) at We are Wellness Leeds & The Edge Gym University of Leeds
