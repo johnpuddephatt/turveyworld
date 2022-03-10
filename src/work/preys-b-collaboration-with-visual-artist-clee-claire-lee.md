@@ -5,6 +5,6 @@ image:
   crop: gravity.center
   file: /uploads/img_1385.jpg
 ---
-Gerry and Clee began this collaboration two years ago before lockdown in 2020. Clee has now created the exhibition Prey's B at Exchange Studios Sheffield. Gerry facilitated two hour workshop within the exhibition. They hope to continue this interaction between dance and sculpture over the next two years!  For information about Clee and her work[](www.cleeclairelee.com).
+Gerry and Clee began this collaboration two years ago before lockdown in 2020. Clee has now created the exhibition Prey's B at Exchange Studios Sheffield. Gerry facilitated a two hour workshop within the exhibition. They hope to continue this interaction between dance and sculpture over the next two years!  For information about Clee and her work[](www.cleeclairelee.com).
 
 [www.cleeclairelee.com](www.cleeclairelee.com)
