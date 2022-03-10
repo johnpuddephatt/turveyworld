@@ -7,10 +7,6 @@ image:
 ---
 **In 2022 Gerry will be developing some new workshops:**
 
-**A two hour workshop within the art work of artist Claire Lee in Sheffield during her Exhibition** "**Preys B" Sunday 6 March. 11-1. For booking contact Clee**  
-
-**[www.cleeclairelee.com](www.cleeclairelee.com)**
-
 **Make Tank in Exeter have invited Gerry to run a site-specific weekend workshop 7/8 May during the 'Bloom Festival'**  <https://exeterphoenix.org.uk/bloom-2022/> 
 
 <https://www.maketank.org.uk/>
