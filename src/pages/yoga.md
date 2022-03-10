@@ -35,15 +35,21 @@ Sign up online at  <https://wearewellness.co.uk/>
 
 * 2nd April. 2-4 pm. Nurturing a healthy Spine
 
+**The Yoga Space**
+
+* Restorative with Gerry and face massage with Nichi. Fri April 22. 7-8.30pm
+
+[https://theyogaspace.co.uk/yoga](https://theyogaspace.co.uk/yoga-space-online/)
+
 **The Edge Gym University of Leeds**
 
 * Hatha. Tuesdays 10-11
-* Hatha. Wednesdays. 3.15-4.15
+* Hatha. Wednesdays. 3.15-4.15 (until March 23)
 
 Booking required: Tel:0113 3435095
 
 <https://sport.leeds.ac.uk/the-edge/>
 
-[](https://clients.mindbodyonline.com/classic/ws?studioid=299588&stype=-103&sView=day&sLoc=0&sTrn=100000003)Follow Gerry on line at **The Yoga Space** for £9.99 a month as many classes as you want.
+[](https://clients.mindbodyonline.com/classic/ws?studioid=299588&stype=-103&sView=day&sLoc=0&sTrn=100000003)Follow Gerry on line at **The Yoga Space**  for £9.99 a month as many classes as you want.
 
 [https://theyogaspace.co.uk/yoga-space-online](https://theyogaspace.co.uk/yoga-space-online/)/
