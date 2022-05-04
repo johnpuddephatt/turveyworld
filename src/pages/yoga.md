@@ -31,20 +31,16 @@ Gerry's teaches regular Yoga classes, at We Are Wellness, Leeds University and t
 
 Sign up online at  <https://wearewellness.co.uk/>
 
-**Workshops at Wellness** 
-
-* 2nd April. 2-4 pm. Nurturing a healthy Spine
-
 **The Yoga Space**
 
-* Restorative with Gerry and face massage with Nichi. Fri April 22. 7-8.30pm
+* Yin every Sunday 4.45-6pm. In studio and online
 
-[https://theyogaspace.co.uk/yoga](https://theyogaspace.co.uk/yoga-space-online/)
+<https://theyogaspace.co.uk/schedule/>
 
 **The Edge Gym University of Leeds**
 
-* Hatha. Tuesdays 10-11
-* Hatha. Wednesdays. 3.15-4.15 (until March 23)
+* Hatha. Tuesdays 10.30-11.30
+* Hatha. Wednesdays. 3.15-4.15 
 
 Booking required: Tel:0113 3435095
 
