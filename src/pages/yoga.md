@@ -31,12 +31,6 @@ Gerry's teaches regular Yoga classes, at We Are Wellness, Leeds University and t
 
 Sign up online at  <https://wearewellness.co.uk/>
 
-**The Yoga Space**
-
-* Yin every Sunday 4.45-6pm. In studio and online
-
-<https://theyogaspace.co.uk/schedule/>
-
 **The Edge Gym University of Leeds**
 
 * Hatha. Tuesdays 10.00-11.00
@@ -45,6 +39,14 @@ Booking required: Tel:0113 3435095
 
 <https://sport.leeds.ac.uk/the-edge/>
 
-[](https://clients.mindbodyonline.com/classic/ws?studioid=299588&stype=-103&sView=day&sLoc=0&sTrn=100000003)Follow Gerry on line at **The Yoga Space**  for £9.99 a month as many classes as you want.
+**The Yoga Space**
+
+* Yin every Sunday 4.45-6pm. In studio and online
+* Flow Sat 11 June/Sat 23 July: In Studio 9.45-11am
+* Restorative and Face massage Friday 1st July 7-8.30. In Studio
+
+[https://theyogaspace.co.uk/schedule](https://theyogaspace.co.uk/schedule/)
+
+Follow Gerry on line at **The Yoga Space**  for £9.99 a month as many classes as you want.
 
 [https://theyogaspace.co.uk/yoga-space-online](https://theyogaspace.co.uk/yoga-space-online/)/
