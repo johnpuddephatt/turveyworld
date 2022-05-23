@@ -39,8 +39,7 @@ Sign up online at  <https://wearewellness.co.uk/>
 
 **The Edge Gym University of Leeds**
 
-* Hatha. Tuesdays 10.30-11.30
-* Hatha. Wednesdays. 3.15-4.15 
+* Hatha. Tuesdays 10.00-11.00
 
 Booking required: Tel:0113 3435095
 
