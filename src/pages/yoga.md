@@ -19,7 +19,7 @@ She encourages correcting skeletal alignment, and using yoga to make the body mo
 >
 > Lara Eggleton, writer, editor and consultant
 
-Gerry's teaches regular Yoga classes, at We Are Wellness, Leeds University and the Edge Gym
+Gerry's teaches regular Yoga classes, at We Are Wellness, and Leeds University Edge Gym
 
 **If you would like a one to one yoga class please contact Gerry directly.**
 
@@ -45,7 +45,9 @@ Booking required: Tel:0113 3435095
 * Flow Sat 11 June/Sat 23 July: In Studio 9.45-11am
 * Restorative and Face massage Friday 1st July 7-8.30. In Studio
 
-[https://theyogaspace.co.uk/schedule](https://theyogaspace.co.uk/schedule/)
+  <https://www.momoyoga.com/yoga-space/>
+
+  <https://theyogaspace.co.uk>
 
 Follow Gerry on line at **The Yoga Space**  for £9.99 a month as many classes as you want.
 
