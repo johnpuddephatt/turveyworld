@@ -45,7 +45,7 @@ Booking required: Tel:0113 3435095
 **The Yoga Space**
 
 * Yin every Sunday 4.45-6pm. In studio and online
-* Flow Sat 11 June/Sat 23 July: In studio 9.45-11am
+* Sat 23 July: In studio 9.45-11am
 * Hatha + Restorative 8-9.15pm. Mon June 27. Monday July 18
 * Restorative and Face massage Friday 1st July 7-8.30. In Studio
 
