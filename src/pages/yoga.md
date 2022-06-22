@@ -35,8 +35,8 @@ Sign up online at  <https://wearewellness.co.uk/>
 **The Edge Gym University of Leeds**
 
 * Hatha. Every Tuesday 10.00-11.00
-* Yin/Yang 9-10 (Sat 16 July)
-* Flow 10.30-11.30 (Sat 16 July)
+* Yin/Yang 9-10 (Sat 16 July/23 July)
+* Flow 10.30-11.30 (Sat 16/23 July)
 * Yin/Yang 10-11. (Thursday 21st July)
 
 Booking required: Tel:0113 3435095
@@ -46,7 +46,6 @@ Booking required: Tel:0113 3435095
 **The Yoga Space**
 
 * Yin every Sunday 4.45-6pm. In studio and online
-* Flow Sat 23 July: In studio 9.45-11am
 * Hatha + Restorative 8-9.15pm. Mon June 27. Monday July 18
 * Restorative and Face massage Friday 1st July 7-8.30. In Studio
 
