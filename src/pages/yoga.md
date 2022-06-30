@@ -28,7 +28,7 @@ Gerry's teaches regular Yoga classes, at We Are Wellness, and Leeds University E
 **We are Wellness Leeds**  
 
 * Hatha: Wednesdays: 9.30-10.30 am 
-* Monthly Yin/Yang 6.45-8 pm (*last Friday of each month. Starts July 29*)
+* Monthly Yin/Yang 6.45-8 pm (*last Friday of each month. S*ee on workshops page)
 
 Sign up online at  <https://wearewellness.co.uk/>
 
@@ -46,10 +46,7 @@ Booking required: Tel:0113 3435095
 **The Yoga Space**
 
 * Yin every Sunday 4.45-6pm. In studio and online
-* Hatha + Restorative 8-9.15pm. Mon June 27. Monday July 18
-* Restorative and Face massage Friday 1st July 7-8.30. In Studio
-
-  <https://www.momoyoga.com/yoga-space/>
+* <https://www.momoyoga.com/yoga-space/>
 
   <https://theyogaspace.co.uk>
 
