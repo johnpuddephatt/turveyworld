@@ -19,24 +19,23 @@ She encourages correcting skeletal alignment, and using yoga to make the body mo
 >
 > Lara Eggleton, writer, editor and consultant
 
-Gerry's teaches regular Yoga classes, at We Are Wellness, and Leeds University Edge Gym
-
-**If you would like a one to one yoga class please contact Gerry directly.**
-
 - - -
+
+Gerry's teaches regular Yoga classes, at We Are Wellness, The Yoga Space and Leeds University Edge Gym
 
 **We are Wellness Leeds**  
 
 * Hatha: Wednesdays: 9.30-10.30 am 
-* Monthly Yin/Yang 6.45-8 pm (*last Friday of each month. S*ee on workshops page)
+* Monthly Yin/Yang 6.45-8 pm (*last Friday of each month. S*ee on the workshops page)
 
 Sign up online at  <https://wearewellness.co.uk/>
 
 **The Edge Gym University of Leeds**
 
-* Hatha. Every Tuesday 10.00-11.00
-* Yin/Yang 9-10am (Sat 16 July/23 July)
-* Yin/Yang 10-11am (Thursday 21st July)
+* **Hatha. Every Tuesday 10.00-11.00**
+* Yin/Yang 9-10am ( Saturday July23 July)
+* Flow 10.45-11.45am (Thursday 28st July)
+* Flow 8.15-9.15am (Friday 29 July
 
 Booking required: Tel:0113 3435095
 
@@ -52,3 +51,5 @@ Booking required: Tel:0113 3435095
 Follow Gerry on line at **The Yoga Space**  for £9.99 a month as many classes as you want.
 
 [https://theyogaspace.co.uk/yoga-space-online](https://theyogaspace.co.uk/yoga-space-online/)/
+
+**If you would like a one to one yoga class please contact Gerry directly.**
