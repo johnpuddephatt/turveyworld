@@ -33,9 +33,6 @@ Sign up online at  <https://wearewellness.co.uk/>
 **The Edge Gym University of Leeds**
 
 * **Hatha. Every Tuesday 10.00-11.00**
-* Yin/Yang 9-10am ( Saturday July23 July)
-* Flow 10.45-11.45am (Thursday 28st July)
-* Flow 8.15-9.15am (Friday 29 July
 
 Booking required: Tel:0113 3435095
 
