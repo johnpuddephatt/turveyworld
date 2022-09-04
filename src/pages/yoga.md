@@ -21,29 +21,24 @@ She encourages correcting skeletal alignment, and using yoga to make the body mo
 
 - - -
 
-Gerry's teaches regular Yoga classes, at We Are Wellness, The Yoga Space and Leeds University Edge Gym
+Gerry's teaches regular Yoga classes, at We Are Wellness, and Leeds University Edge Gym
 
 **We are Wellness Leeds**  
 
 * Hatha: Wednesdays: 9.30-10.30 am 
+* Yin and Restorative: 5-6pm (*alternate weeks from October 9th*)
 * Monthly Yin/Yang 6.45-8 pm (*last Friday of each month. S*ee on the workshops page)
 
 Sign up online at  <https://wearewellness.co.uk/>
 
 **The Edge Gym University of Leeds**
 
-* **Hatha. Every Tuesday 10.00-11.00**
+* Hatha:Tuesdays. 10.00-11.00
+* Hatha: Wednesdays. 3-4pm
 
 Booking required: Tel:0113 3435095
 
 <https://sport.leeds.ac.uk/the-edge/>
-
-**The Yoga Space**
-
-* Yin every Sunday 4.45-6pm. In studio and online
-* <https://www.momoyoga.com/yoga-space/>
-
-  <https://theyogaspace.co.uk>
 
 Follow Gerry on line at **The Yoga Space**  for £9.99 a month as many classes as you want.
 
