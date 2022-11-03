@@ -15,13 +15,11 @@ She encourages correcting skeletal alignment, and using yoga to make the body mo
 
 ![](/uploads/yoga-3.jpg)
 
-> As an instructor, Gerry perfectly balances a rigorous practice with gentle self-awareness. Her flow classes are creatively choreographed, so that more challenging poses are easier to embrace and it's possible to go deeper into them. I can't recommend her enough!
->
-> Lara Eggleton, writer, editor and consultant
+> As an instructor, Gerry perfectly balances a rigorous practice with gentle self-awareness. Her flow classes are creatively choreographed, so that more challenging poses are easier to embrace and it's possible to go deeper into them. I can't recommend her enough!.  Lara Eggleton, writer, editor and consultant
 
 - - -
 
-Gerry's teaches regular Yoga classes, at We Are Wellness, and Leeds University Edge Gym
+Gerry's teaches regular Yoga classes, at We Are Wellness, and Leeds University Edge Gym. You can also follow Gerry on line at **The Yoga Space**  **On Line** for £9.99 a month as many classes as you want.[https://theyogaspace.co.uk/yoga-space-online](https://theyogaspace.co.uk/yoga-space-online/)/
 
 **We are Wellness Leeds**  
 
@@ -36,12 +34,18 @@ Sign up online at  <https://wearewellness.co.uk/>
 * Hatha:Tuesdays. 10.00-11.00
 * Hatha: Wednesdays. 3-4pm
 
-Booking required: Tel:0113 3435095
+Booking required: Tel:0113 3435095[\    https://sport.leeds.ac.uk/the-edge/](https://sport.leeds.ac.uk/the-edge/)
 
-<https://sport.leeds.ac.uk/the-edge/>
+**Workshops this winter**
 
-Follow Gerry on line at **The Yoga Space**  for £9.99 a month as many classes as you want.
+**THE Big Relax**
 
-[https://theyogaspace.co.uk/yoga-space-online](https://theyogaspace.co.uk/yoga-space-online/)/
+2 hours of bliss and self-care.
+
+**Fri Dec 30th 2-4pm** We are Wellness. [https://wearewellness.co.uk](https://wearewellness.co.uk/)Sunday
+
+**Sunday Jan 1st 2023 2-4pm** Soma-Wellness Otley:
+
+ <https://app.punchpass.com/org/6872/classes/12068563?source=cal>
 
 **If you would like a one to one yoga class please contact Gerry directly.**
