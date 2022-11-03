@@ -3,14 +3,9 @@ title: Moving into Sculpture Workshops
 date: 2022-08-23T12:43:28.105Z
 image:
   crop: gravity.center
-  file: /uploads/5cb8f805-7d56-4af3-a0e3-1a2032840d24.jpeg
+  file: /uploads/img_0930.jpg
   alt: Adventures with Bodies and Public Art. University of Leeds
 ---
-This autumn Gerry will facilitate two movement workshops along the public art trail at the University of Leeds. This is part of 'Campus Live' events organized by The Cultural Institute at the University and in collaboration with Stanley and Audrey Burton gallery. Alison Grace-Clissold will be supporting dance artist.
+This autumn Gerry will facilitated two movement workshops along the public art trail at the University of Leeds. This was part of 'Campus Live' events organized by The Cultural Institute at the University and in collaboration with Stanley and Audrey Burton gallery. Alison Grace-Clissold was the supporting dance artist. Eve Goff the photographer
 
-* Wednesday October 19 
-* Wednesday October 26
-
-Both workshops will be 2-4pm  To book.
-
-<https://www.eventbrite.co.uk/e/moving-into-sculpture-adventures-with-bodies-and-public-art-tickets-433621191657>
+More events like this will be planned for the Spring of 2023
