@@ -36,16 +36,24 @@ Sign up online at  <https://wearewellness.co.uk/>
 
 Booking required: Tel:0113 3435095[\    https://sport.leeds.ac.uk/the-edge/](https://sport.leeds.ac.uk/the-edge/)
 
-**Workshops this winter**
+**Workshops Spring and Summer**
 
-**THE Big Relax**
+**Spring Revival ~ Hatha+Restorative Yoga**
 
-2 hours of bliss and self-care.
+Fri 28 April 6.30-8pm.
 
-**Fri Dec 30th 2-4pm** We are Wellness. [https://wearewellness.co.uk](https://wearewellness.co.uk/)Sunday
+**Breathe into Summer~Pranayama+Yoga**Friday 23 June 6.30-8pm
 
-**Sunday Jan 1st 2023 2-4pm** Soma-Wellness Otley:
+**Partner Yoga workshop** 
 
- <https://app.punchpass.com/org/6872/classes/12068563?source=cal>
+Saturday 15 July 2-4pm.
+
+All at **We Are Wellness** book on the workshops page. [https://wearewellness.co.uk](https://wearewellness.co.uk/)
+
+**Partner Yoga workshop** 
+
+Sunday 16 April 2-4pm Soma-Wellness Otley:
+
+<https://app.punchpass.com/org/6872/classes/12626533?source=cal>
 
 **If you would like a one to one yoga class please contact Gerry directly.**
