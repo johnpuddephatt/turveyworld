@@ -1,6 +1,6 @@
 ---
 title: " Design History as Site Specific Practice"
-date: 2021-09-22T23:00:00.000Z
+date: 2023-02-13T13:42:22.532Z
 image:
   crop: gravity.center
   file: /uploads/city-scapes-4.jpg
