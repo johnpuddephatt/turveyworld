@@ -43,7 +43,7 @@ Booking required: Tel:0113 3435095[\    https://sport.leeds.ac.uk/the-edge/](htt
 
 **Soma Wellness Otley**
 
-**Partner Yoga workshop** 
+**Partner Yoga workshop**    
 
 Sunday 16 April 2-4pm 
 
