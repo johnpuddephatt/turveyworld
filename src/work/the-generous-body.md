@@ -8,4 +8,4 @@ image:
 ---
 A series of workshops exploring the relationship of body to our environment.
 
-Gerry has been developing this work for the past two years. The most recent workshops were in York and in Chateau Deux in Switzerland. This work is on-going research. If you would like to explore these ideas or book this workshop, please contact Gerry
+Gerry has been developing this work for the past few years. The most recent workshops were in York and in Chateau Deux in Switzerland. This work is on-going research. If you would like to explore these ideas or book this workshop, please contact Gerry
