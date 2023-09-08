@@ -1,8 +1,8 @@
 ---
-title: Print Making +Movement
+title: Moving in the Printed image
 date: 2023-08-30T13:07:45.035Z
 image:
   crop: gravity.center
-  file: /uploads/eastwest3.jpeg
+  file: /uploads/eastwest2.jpeg
 ---
-In January 2024 Gerry will be collaborating with Print maker and visual Artist David Armes at Hyde Park Arts Club (*part of Hyde Park Book Club)*. As part of his installation, there will be live Performance and movement workshops. More information to follow
+In January/Febuary 2024 Gerry will be collaborating with print maker and visual artist David Armes who will be in residence at Hyde Park Arts Club (*part of Hyde Park Book Club)*. As part of his installation, Gerry will animate some  live performance and offer movement workshops. More information to follow.
