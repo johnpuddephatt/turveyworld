@@ -26,7 +26,7 @@ Gerry's teaches regular Yoga classes, at We Are Wellness, and Leeds University E
 * Hatha: Wednesdays: 9.30-10.30 am 
 * Yin and Restorative: Sundays: 5-6pm
 
-**Workshops this Autumn**
+**Workshops @ We are Wellness this Autumn**
 
 * Yin Yang: Friday 29th September 6.30-8pm
 * Hatha + Restorative Friday 27th October 6.30-8pm
