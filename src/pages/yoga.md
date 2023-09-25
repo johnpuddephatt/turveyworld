@@ -37,7 +37,7 @@ Gerry's teaches regular Yoga classes, at We Are Wellness, and Leeds University E
 
 * Hatha Tuesdays 10-11am
 * Yin Wednesdays 3-4pm
-* Thursdays 12.15-1.15 
+* Hatha Thursdays 12.15-1.15 
 
 Booking required: Tel:0113 3435095[\    https://sport.leeds.ac.uk/the-edge/](https://sport.leeds.ac.uk/the-edge/)
 
