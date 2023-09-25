@@ -31,7 +31,7 @@ Gerry's teaches regular Yoga classes, at We Are Wellness, and Leeds University E
 * Opening the Heart: Yin Yang: Friday 29th September 6.30-8pm
 * Finding some Grounding: Hatha + Restorative Friday 27th October 6.30-8pm
 
-*For all these workshops if you book 2 weeks in advance you get early bird discount. Now available to book.*Sign up online at  <https://wearewellness.co.uk/>
+*These workshops are £15 if you book 2 weeks in advance you get early bird discount. Now available to book.*Sign up online at  <https://wearewellness.co.uk/>
 
 **The Edge Gym University of Leeds**
 
