@@ -1,6 +1,6 @@
 ---
 title: Moving in the Printed image
-date: 2023-08-30T13:07:45.035Z
+date: 2023-11-11T14:07:45.035Z
 image:
   crop: gravity.center
   file: /uploads/eastwest2.jpeg
