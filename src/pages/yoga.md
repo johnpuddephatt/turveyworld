@@ -26,12 +26,15 @@ Gerry's teaches regular Yoga classes, at We Are Wellness, and Leeds University E
 * Hatha: Wednesdays: 9.30-10.30 am 
 * Yin and Restorative: Sundays: 5-6pm
 
-**Workshops @ We are Wellness this Autumn**
+**Workshops @ We are Wellness in 2024**
 
-* Opening the Heart: Yin Yang: Friday 29th September 6.30-8pm
-* Finding some Grounding: Hatha + Restorative Friday 27th October 6.30-8pm
+**Hatha_ Restorative workshops**
 
-*These workshops are £15 if you book 2 weeks in advance you get early bird discount. Now available to book.*Sign up online at  <https://wearewellness.co.uk/>
+* Friday 26 January:6.30-8.00pm
+* Friday 23 February:6.30-8.00pm
+* Friday 29 March: 6.30-8.00pm*.*
+
+  Book on workshops page <https://momence.com/dashboard/33816/sessions>
 
 **The Edge Gym University of Leeds**
 
