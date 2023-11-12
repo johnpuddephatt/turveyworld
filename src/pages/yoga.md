@@ -28,7 +28,7 @@ Gerry's teaches regular Yoga classes, at We Are Wellness, and Leeds University E
 
 **Workshops @ We are Wellness in 2024**
 
-**Hatha_ Restorative workshops**
+**Hatha+Restorative workshops**
 
 * Friday 26 January: 6.30-8.00pm
 * Friday 23 February: 6.30-8.00pm
