@@ -32,7 +32,7 @@ Gerry's teaches regular Yoga classes, at We Are Wellness, and Leeds University E
 
 * Friday 26 January: 6.30-8.00pm
 * Friday 23 February: 6.30-8.00pm
-* Friday 29 March:  6.30-8.00pm*.*
+* Friday 29 March:  6.30-8.00pm
 
 Book on workshops page <https://momence.com/dashboard/33816/sessions>
 
