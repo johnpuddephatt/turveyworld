@@ -21,6 +21,8 @@ She encourages correcting skeletal alignment, and using yoga to make the body mo
 
 Gerry's teaches regular Yoga classes, at We Are Wellness, and Leeds University Edge Gym. 
 
+Please note all these classes will resume now from January 11th
+
 **We are Wellness Leeds**  
 
 * Hatha: Wednesdays: 9.30-10.30 am 
