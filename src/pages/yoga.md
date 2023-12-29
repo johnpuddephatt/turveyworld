@@ -40,8 +40,6 @@ Book on workshops page <https://momence.com/dashboard/33816/sessions>
 
 **The Edge Gym University of Leeds**
 
-* Hatha Tuesdays 10-11am
-* Yin Wednesdays 3-4pm
 * Hatha Thursdays 12.15-1.15 
 
 Booking required: Tel:0113 3435095[\    https://sport.leeds.ac.uk/the-edge/](https://sport.leeds.ac.uk/the-edge/)
