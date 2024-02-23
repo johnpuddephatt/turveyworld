@@ -19,9 +19,7 @@ She encourages correcting skeletal alignment, and using yoga to make the body mo
 
 - - -
 
-Gerry's teaches regular Yoga classes, at We Are Wellness, and Leeds University Edge Gym. 
-
-Please note all these classes will resume now from January 11th
+Gerry's teaches regular Yoga classes, at We Are Wellness, and Leeds University Edge Gym.
 
 **We are Wellness Leeds**  
 
@@ -32,9 +30,8 @@ Please note all these classes will resume now from January 11th
 
 **Hatha+Restorative workshops**
 
-* Friday 26 January: 6.30-8.00pm
-* Friday 23 February: 6.30-8.00pm
 * Friday 29 March:  6.30-8.00pm
+* Friday 26 April: 6.30-8pm
 
 Book on workshops page <https://momence.com/dashboard/33816/sessions>
 
@@ -42,6 +39,6 @@ Book on workshops page <https://momence.com/dashboard/33816/sessions>
 
 * Hatha Thursdays 12.15-1.15 
 
-Booking required: Tel:0113 3435095[\    https://sport.leeds.ac.uk/the-edge/](https://sport.leeds.ac.uk/the-edge/)
+Booking required: Tel:0113 3435095[   https://sport.leeds.ac.uk/the-edge/](https://sport.leeds.ac.uk/the-edge/)
 
 **If you would like a one to one yoga class please contact Gerry directly.**
