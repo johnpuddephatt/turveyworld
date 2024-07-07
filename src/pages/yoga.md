@@ -31,9 +31,8 @@ Gerry's teaches regular Yoga classes, at We Are Wellness, and Leeds University E
 
 **Hatha+Restorative workshops**
 
-* Friday 31 May:  6.30-8.00pm
-* Friday 28 June: 6.30-8pm
-* Friday 27 July: 6.30-8pm
+* Friday 26 July: 6.30-8pm
+* Then the last Friday of the month Sept/Oct/Nov
 
 Book on workshops page <https://momence.com/dashboard/33816/sessions>
 
