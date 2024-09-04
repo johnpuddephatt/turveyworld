@@ -27,20 +27,14 @@ Gerry's teaches regular Yoga classes, at We Are Wellness, and Leeds University E
 * Creative Hatha: Wednesdays: 9.30-10.30 am 
 * Yin and Restorative: Sundays: 5-6pm
 
-**Workshops @ We are Wellness in 2024**
+**Autumn Hatha+Restorative Workshops @ We are Wellness** 
 
-**Hatha+Restorative workshops**
-
-**6.30-8pm**
-
-* The last Friday of each month from Sept:Oct and Nov
+* **Friday 27 September 6.30-8pm~*Finding Balance***
+* **Fri 25 October : 6.30-8pm\
+  Fri 29 November: 6.30-8pm**
 
 Book on workshops page <https://momence.com/dashboard/33816/sessions>
 
-**The Edge Gym University of Leeds**
 
-* Hatha: Thursdays 12.15-1.15 
-
-Booking required: Tel:0113 3435095[   https://sport.leeds.ac.uk/the-edge/](https://sport.leeds.ac.uk/the-edge/)
 
 **If you would like a one to one yoga class please contact Gerry directly.**
