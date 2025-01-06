@@ -19,7 +19,7 @@ She encourages correcting skeletal alignment, and using yoga to make the body mo
 
 - - -
 
-Gerry's teaches regular Yoga classes, at We Are Wellness, and Leeds University Edge Gym.
+Gerry's teaches regular Yoga classes, at We Are Wellness Studio North Hill Lane LS6.
 
 **We are Wellness Leeds**  
 
