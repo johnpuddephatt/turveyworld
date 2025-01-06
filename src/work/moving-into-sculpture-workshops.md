@@ -8,4 +8,4 @@ image:
 ---
 Gerry facilitated two movement workshops along the public art trail at the University of Leeds. This was part of 'Campus Live' events organized by The Cultural Institute at the University and in collaboration with Stanley and Audrey Burton gallery. Alison Grace-Clissold was the supporting dance artist. Eve Goff the photographer
 
-More events like this will be planned for 2023
+Look out for further opportunities like this
