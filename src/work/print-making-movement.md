@@ -1,6 +1,6 @@
 ---
 title: To bring this Momentum
-date: 2025-01-06T13:24:21.642Z
+date: 2025-01-12T14:03:32.727Z
 image:
   crop: gravity.center
   file: /uploads/19faa391-c7f5-49ec-a2bd-b4f637698c20.jpeg
