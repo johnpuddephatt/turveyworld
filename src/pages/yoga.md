@@ -36,4 +36,4 @@ Gerry's teaches regular Yoga classes, at We Are Wellness Studio North Hill Lane 
 
 Book on workshops page <https://momence.com/dashboard/33816/sessions>
 
-**If you would like a one to one yoga class please contact Gerry directly.**
+**If you would like a one to one yoga class: contact Gerry directly.** [turveyworld2@yahoo.com](turveyworld2@yahoo.com)
