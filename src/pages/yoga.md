@@ -11,7 +11,7 @@ She encourages correcting skeletal alignment, and using yoga to make the body mo
 
 > "I *have practiced with Gerry for over 10 years, her teaching is intuitive and embodied, infused with so much depth of understanding and delight in yoga. I feel inspired and refreshed after* every class"
 >
-> > Jo Nockels, University of Leeds Dept of Cultural Projects
+> > Jo Nockels: University of Leeds Dept of Cultural Projects
 
 ![](/uploads/yoga-3.jpg)
 
