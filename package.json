@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "npx @11ty/eleventy --output ./dist && cp -r ./.tmp/uploads  ./dist",
+    "build": "npx @11ty/eleventy --output ./dist && cp -r ./.tmp/uploads  ./dist && cp ./src/admin/config.yml ./dist/admin/config.yml",
     "dev": "eleventy  --quiet --watch --output ./dist"
   },
   "keywords": [],
