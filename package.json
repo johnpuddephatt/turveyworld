@@ -4,36 +4,26 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "npm run webpack:development",
-    "webpack:development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
-    "webpack:watch": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --watch --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
-    "webpack:hot": "cross-env NODE_ENV=development node_modules/webpack-dev-server/bin/webpack-dev-server.js --inline --hot --config=node_modules/laravel-mix/setup/webpack.config.js",
-    "prod": "run-s webpack:production 11ty:production",
-    "webpack:production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
-    "11ty:production": "npx @11ty/eleventy --output ./dist",
-    "11ty:watch": "eleventy  --quiet --watch --output ./dist",
-    "serve": "browser-sync start --config .bs-config.js --proxy localhost:1234",
-    "start": "run-p webpack:watch 11ty:watch"
+    "build": "npx @11ty/eleventy --output ./dist && cp -r ./.tmp/uploads  ./dist",
+    "dev": "eleventy  --quiet --watch --output ./dist"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^0.9.0",
-    "browser-sync": "^2.26.7",
-    "browser-sync-webpack-plugin": "2.0.1",
+    "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy-plugin-vite": "^6.0.0-alpha.4",
     "eleventy-plugin-svg-contents": "^0.5.1",
-    "laravel-mix": "^4.1.4",
+    "laravel-mix": "^6.0.0",
     "npm-run-all": "^4.1.5",
     "resolve-url-loader": "3.*",
     "sass": "^1.23.1",
-    "sass-loader": "^7.3.1",
-    "ts-loader": "^6.2.1",
-    "typescript": "^3.6.4",
-    "vue-template-compiler": "^2.6.10"
+    "sass-loader": "^7.3.1"
   },
   "dependencies": {
-    "eleventy-plugin-srcset": "^0.1.11",
+    "@11ty/eleventy-img": "^6.0.1",
+    "eleventy-plugin-srcset": "^0.5.0",
+    "fs-extra": "^11.3.0",
     "imagesloaded": "^4.1.4",
     "intersection-observer": "^0.7.0"
   }

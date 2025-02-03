@@ -1,12 +1,16 @@
-const path = require('path');
 const svgContents = require("eleventy-plugin-svg-contents");
 const pluginSrcsetImg = require( "eleventy-plugin-srcset" );
 
-module.exports = function(eleventyConfig) {
+
+module.exports = async function(eleventyConfig) {
 
   // Plugins
   eleventyConfig.addPlugin( pluginSrcsetImg );
   eleventyConfig.addPlugin(svgContents);
+
+  	const EleventyPluginVite = (await import("@11ty/eleventy-plugin-vite")).default;
+	eleventyConfig.addPlugin(EleventyPluginVite);
+
 
   const md = require('markdown-it')({
       html: false,
@@ -19,6 +23,8 @@ module.exports = function(eleventyConfig) {
   // Copy files
   eleventyConfig.addPassthroughCopy('./src/admin');
   eleventyConfig.addPassthroughCopy('./src/assets');
+  // eleventyConfig.addPassthroughCopy('/.tmp/uploads');
+
   // eleventyConfig.addPassthroughCopy('./src/uploads');
   eleventyConfig.addPassthroughCopy({ "./src/_favicons/**/*": "./" });
 

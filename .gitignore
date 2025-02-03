@@ -3,3 +3,4 @@ dist/
 .jekyll-metadata
 node_modules/
 yarn-error.log
+.tmp/
