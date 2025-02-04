@@ -29,7 +29,6 @@ Gerry's teaches regular Yoga classes, at We Are Wellness Studio North Hill Lane 
 
 **Spring Hatha+Restorative Workshops @ We are Wellness** 
 
-* **Friday 31 January 6.30-8pm**
 * **Fri 28 February : 6.30-8pm\
   Fri 28 March: 6.30-8pm**
 * **Fri 25 April: 6.30-8pm**
