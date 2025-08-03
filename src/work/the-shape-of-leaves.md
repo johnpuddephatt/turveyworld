@@ -3,7 +3,7 @@ title: The Shape of Leaves
 date: 2025-08-03T12:17:29.950Z
 image:
   crop: gravity.center
-  file: /uploads/a291860e-1863-4d40-ad07-58ca05d50f32_1_201_a.jpeg
+  file: /uploads/9a2fd40e-850e-4508-a010-0bb6450efef6_1_201_a.jpeg
 ---
 
 
