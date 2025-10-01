@@ -1,13 +1,13 @@
 ---
 title: The Shape of Leaves
-date: 2025-08-03T12:17:29.950Z
+date: 2025-10-01T12:44:58.872Z
 image:
   crop: gravity.center
-  file: /uploads/9a2fd40e-850e-4508-a010-0bb6450efef6_1_201_a.jpeg
+  file: /uploads/dsc_3941.jpeg
 ---
-**The Shape of Leaves** is a collaboration with print maker David Armes. 
+**The Shape of Leaves** is the third collaboration with print maker David Armes. 
 
-Installation, performance, and workshop @ C.A.N Gallery Newark  19-22 Aug 2025
+The Installation, performance, and workshop were @ C.A.N Gallery Newark  19-22 Aug 2025
 
 * **Installation:** The Shape of Leaves 19-22 Aug: 10-4pm 
 * **Workshop**:~ Moving into print 20 Aug 4-6pm:
